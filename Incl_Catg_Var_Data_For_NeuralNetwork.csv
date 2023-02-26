@@ -1,0 +1,1381 @@
+﻿location, bedroom, housetype, carpet_area, status, transatcion, furnishing, balcony, park_count,bath, ownership, facing, price_in_Lac
+   Wagholi,1,Flat,550,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,West,26
+  Wagholi,1,Flat,560,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,NA,25
+ Sinhagad Road,3,House,2308,Ready to Move,Resale,Unfurnished,3,3,3,Freehold,East,175
+  Keshav Nagar Mundhwa,2,Flat,700,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,55
+  Hadapsar,3,Flat,809,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,North  East,90
+ Undri,2,Flat,880,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North,51
+  NIBM Road,2,Flat,1000,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,95
+  Chakan,1,Flat,431,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,20.7
+ Talegaon Dabhade,1,Flat,445,Ready to Move,New Property,Unfurnished,1,1,3,Freehold,East,19.9
+  Wakad,3,Flat,890,Ready to Move,Resale,SemiFurnished,0,3,1,Freehold,East,155
+  Dighi,1,Flat,440,Ready to Move,Resale,Unfurnished,1,1,NA,Cooperative Society,East,25
+  Wadgaon Sheri,2,Flat,870,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,73
+ colors Society,2,Flat,642,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,36.5
+ Talegaon Dabhade,2,Flat,640,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North,28
+ Vishal Nagar Pimpri Chinchwad,3,Flat,1008,Ready to Move,Resale,SemiFurnished,1,3,1,Cooperative Society,South  East,79
+  Pimple Saudagar Pimpri Chinchwad,3,Flat,1275,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,East,92
+  Hinjewadi,1,Flat,318,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,19.5
+ Sangamvadi,4,Flat,2444,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,North  East,450
+  Pisoli,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,2,Cooperative Society,NA,28
+  Kothrud,3,Flat,950,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,East,110
+  Baner,2,Flat,836,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,70
+ Pimpri Chinchwad,2,Flat,796,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,North,80
+  Bhusari Colony Kothrud,2,Flat,1018,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,South,96
+  Narhe,1,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,NA,Freehold,East,24.5
+ Balewadi,2,Flat,820,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,66
+ Kothrud,1,Flat,430,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,South  East,62
+  Pashan,2,Flat,700,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,72
+  Hadapsar,3,Flat,900,Ready to Move,Resale,SemiFurnished,1,3,2,Freehold,East,65.3
+  Wagholi,2,Flat,845,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,West,35
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Furnished,2,2,1,Freehold,East,75
+Lonikand,2,House,429,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,14
+  Wanawari,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,2,Cooperative Society,East,135
+  St NagarMoshi Pimpri Chinchwad,2,Flat,799,Ready to Move,Resale,SemiFurnished,0,2,1,NA,East,36.5
+  Hinjewadi Phase 3,3,Flat,1215,Ready to Move,Resale,SemiFurnished,0,3,1,NA,NA,85
+  Baner Gaon Baner,2,Flat,870,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,80
+  Warje,2,Flat,880,Ready to Move,New Property,Unfurnished,0,2,2,Cooperative Society,East,76
+Walvekar Nagar Parvati Darshan,3,House,3900,Ready to Move,Resale,Unfurnished,0,3,3,Cooperative Society,East,411
+ Bavdhan,1,Flat,538,Ready to Move,Resale,Unfurnished,0,1,NA,Cooperative Society,East,42
+  Hinjewadi Phase 3,1,Flat,318,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,North  West,16
+  Wakad,3,Flat,1700,Ready to Move,New Property,SemiFurnished,1,3,2,Cooperative Society,East,166
+ F C Road,4,Flat,1300,Ready to Move,Resale,SemiFurnished,1,3,NA,Freehold,East,205
+  Sus,1,Flat,466,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,37
+  Narhe,3,Flat,805,Ready to Move,New Property,Unfurnished,0,3,1,Freehold,East,48.9
+ Katraj,2,Flat,861,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,70
+  Jawakar Nagar,2,Flat,730,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,NA,67
+ Aundh,2,Flat,860,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,95
+  Mundhwa,2,Flat,650,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,62
+  Pisoli,2,Flat,680,Ready to Move,New Property,Unfurnished,1,2,2,Cooperative Society,East,39.5
+  Wakad,3,Flat,1256,Ready to Move,Resale,SemiFurnished,0,3,1,Freehold,East,105
+  Undri,2,Flat,829,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North,48.5
+  Undri,1,Flat,385,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,18
+ Spine Road,2,Flat,695,Ready to Move,Resale,Furnished,1,2,1,Cooperative Society,East,60
+ Talegaon Dabhade,4,House,2000,Ready to Move,NA,Unfurnished,1,3,1,Freehold,North,150
+  Chakan,1,Flat,330,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,21
+  Koregaon Park,3,Flat,2300,Ready to Move,Resale,SemiFurnished,1,4,1,Freehold,East,425
+   Law College Road,5,House,3363,Ready to Move,Resale,SemiFurnished,2,5,2,Cooperative Society,North  West,650
+ Shivaji Nagar,0,House,NA,Ready to Move,Resale,NA,4,NA,NA,Freehold,NA,400
+  Wagholi,2,Flat,740,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,44
+ Sinhagad Road,1,Flat,470,Ready to Move,Resale,Unfurnished,1,1,1,Leasehold,West,29
+  Mumbai Pune Hwy,1,Flat,586,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,48
+ Pent  Viman Nagar,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,1,Cooperative Society,East,102
+ Hadapsar,1,Flat,450,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,West,41
+  Pimple Nilakh Pimpri Chinchwad,2,Flat,820,Ready to Move,Resale,Furnished,1,1,2,Cooperative Society,North  West,74
+  Wakad,4,Flat,1815,Ready to Move,Resale,SemiFurnished,1,4,1,Freehold,East,220
+  Thite Nagar Kharadi,2,Flat,1100,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,101
+  Mahalunge,1,Flat,613,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,30
+ shreeyas cihar,1,Flat,400,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,18.9
+  Hinjewadi,3,House,2800,Ready to Move,Resale,Furnished,1,4,1,Freehold,East,146
+  Shankar Sheth Rd,2,Flat,980,Ready to Move,Resale,Furnished,1,2,2,Freehold,East,100
+  Warje,1,Flat,400,Ready to Move,New Property,Unfurnished,1,1,1,Freehold,West,35
+  Talegaon Dabhade,1,Flat,NA,Ready to Move,Resale,Unfurnished,1,1,2,Cooperative Society,East,15.9
+ Bavdhan,2,Flat,998,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,South  East,72
+ Baner,2,House,1744,Ready to Move,Resale,SemiFurnished,2,3,1,Freehold,North,210
+Wadgaon Sheri,2,House,886,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,North,52
+  Narhe,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,22
+  Viman Nagar,3,Flat,1450,Ready to Move,Resale,Furnished,2,3,NA,Cooperative Society,North,160
+ Pent Paud Road,4,Flat,1402,Ready to Move,Resale,Furnished,1,3,NA,Cooperative Society,East,175
+  Wakad,2,Flat,872,Possession by Jun 21,Resale,Unfurnished,0,2,1,Freehold,West,83
+  Tingre Nagar,2,Flat,1000,Ready to Move,Resale,SemiFurnished,0,2,2,Freehold,NA,72
+ Kranti NagarThergaon Pimpri Chinchwad,1,Flat,523,Ready to Move,Resale,Unfurnished,0,1,1,Cooperative Society,East,40
+  Manjri Manjri Budruk,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,1,NA,East,26
+ Sakal Nagar Aundh,1,Flat,936,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,North,65
+  Amanora Park Town,1,Flat,620,Ready to Move,Resale,SemiFurnished,1,1,1,NA,NA,65
+  NIBM Road,2,Flat,755,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,64
+ Karvenagar,2,Flat,972,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,80
+  Hadapsar,3,Flat,NA,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,North,120
+  Bhugaon Bavdhan,3,Flat,1300,Ready to Move,New Property,Unfurnished,1,3,2,Cooperative Society,East,100
+  Kondhwa,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,1,Cooperative Society,North,30
+  Erandwane,3,Flat,1676,Ready to Move,Resale,Unfurnished,1,4,2,Cooperative Society,West,324
+  Ashoka Nagar Kharadi,2,Flat,730,Possession by Sep 23,Resale,Unfurnished,1,2,2,Freehold,East,57
+  Aundh,3,Flat,NA,Ready to Move,Resale,Unfurnished,2,3,2,NA,NA,140
+ Nakshatra Ventures,1,Flat,450,Possession by Feb 21,Resale,Unfurnished,0,2,1,Freehold,North  East,20
+  Marunji Hinjawadi,1,Flat,451,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,North,36
+ Mulshi,0,Flat,1733,NA,Resale,NA,0,NA,NA,NA,NA,56
+ Kothrud,1,Flat,500,Ready to Move,Resale,Unfurnished,1,1,NA,Leasehold,North,52
+ Ravet Pimpri Chinchwad,1,Flat,413,Ready to Move,Resale,SemiFurnished,0,1,1,Freehold,East,30
+  Wanwadi,3,Flat,1175,Ready to Move,Resale,Furnished,1,3,NA,Freehold,East,120
+ Veerbhadra Nagar Baner,1,Flat,453,Ready to Move,New Property,Unfurnished,0,1,2,Freehold,West,45
+  Undri,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,West,40
+  Bavdhan,2,Flat,661,Ready to Move,Resale,Unfurnished,1,2,4,Freehold,North  East,65
+  Wakad,3,Flat,990,Ready to Move,Resale,Furnished,1,3,2,Freehold,East,105
+  Kondhwa,2,Flat,930,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,65
+  Bibwewadi,5,Flat,1450,Ready to Move,Resale,Unfurnished,3,3,2,Freehold,East,260
+  Alandi Road,2,Flat,679,Ready to Move,Resale,Unfurnished,702,2,1,Freehold,East,39
+ Baner,3,Flat,2000,Ready to Move,Resale,SemiFurnished,2,3,2,Freehold,East,175
+ Sinhagad Road,3,Flat,1000,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,West,78
+  Wagholi,2,Flat,683,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,39
+  Wanawari,4,Flat,2000,Ready to Move,New Property,Unfurnished,2,4,3,Freehold,East,195
+  Bavdhan,2,Flat,755,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,West,65
+  Wakad,2,Flat,630,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,West,62
+  Undri,2,Flat,543,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,South,45
+  Warje,2,Flat,755,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,West,85
+  Manjri Manjri Budruk,2,Flat,691,Possession by Sep 24,New Property,Unfurnished,1,2,2,Freehold,North  East,59.4
+  Wagholi,2,Flat,900,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,49
+  Balewadi,2,Flat,823,Possession by Dec 22,New Property,Unfurnished,1,2,2,Cooperative Society,East,78
+ Wakadewadi Shivaji Nagar,1,Flat,540,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,East,65
+  Wagholi,2,Flat,715,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,49
+Aundh,2,House,480,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,East,51
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,860,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,North,85
+ Sahakar Nagar 2 Parvati Darshan,4,House,1600,Ready to Move,Resale,SemiFurnished,2,4,NA,Cooperative Society,North,200
+  Model Colony Shivaji Nagar,3,Flat,NA,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,West,170
+ Chakan,2,Flat,880,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,29
+  Senapati Bapat Road,3,Flat,1132,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,185
+  Aundh,2,Flat,1226,Ready to Move,Resale,Furnished,0,2,2,Freehold,West,148
+ Wanawadi,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,3,1,Freehold,East,125
+ Katraj,1,Flat,550,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,West,34.5
+ Talegaon Dabhade,3,House,888,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,60
+ Keshav Nagar Mundhwa,3,Flat,1150,Ready to Move,New Property,Unfurnished,2,3,2,Freehold,West,90
+  Pisoli,2,Flat,750,Ready to Move,Resale,Furnished,1,2,2,Freehold,South,47
+ Bhairav Nagar Dhanori,1,Flat,520,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,East,29
+  Bibwewadi,1,Flat,560,Ready to Move,Resale,SemiFurnished,0,1,NA,Cooperative Society,NA,42
+  Talegaon Dabhade,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,West,47
+  Wakad,2,Flat,660,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,NA,54
+  Salisbury Park Gultekdi,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,3,2,NA,NA,180
+ Wagholi,1,Flat,586,Ready to Move,Resale,Unfurnished,0,1,1,Cooperative Society,East,28
+  Kharadi,2,Flat,880,Ready to Move,New Property,SemiFurnished,0,2,1,Cooperative Society,East,68
+  Balewadi,3,Flat,1200,Ready to Move,Resale,SemiFurnished,2,3,3,Cooperative Society,East,120
+  Wadki,1,Flat,350,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,18
+  Hadapsar,2,Flat,754,Ready to Move,New Property,Unfurnished,0,2,2,Cooperative Society,East,65
+  Siddhartha Nagar Dhanori,2,Flat,677,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,NA,45.5
+  Bhugaon Bavdhan,3,House,2300,Ready to Move,Resale,Furnished,3,3,4,Freehold,North  East,290
+ Undri,2,Flat,1095,Ready to Move,Resale,SemiFurnished,1,2,3,Freehold,NA,63
+  Talegaon Dabhade,1,Flat,551,Ready to Move,Resale,SemiFurnished,1,1,NA,Freehold,NA,18.5
+  Magarpatta City,5,Flat,4000,Ready to Move,Resale,Furnished,0,5,1,Freehold,NA,825
+ Ambegaon Budruk,1,Flat,550,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,30
+ Gade Residency,1,Flat,540,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,East,30
+  Pisoli,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,32
+  Kothrud,1,Flat,588,Ready to Move,Resale,SemiFurnished,1,1,NA,Freehold,East,60
+  Sinhagad Road,2,Flat,910,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,North  East,70
+ Ravet Pimpri Chinchwad,4,House,2450,Ready to Move,Resale,SemiFurnished,4,5,NA,NA,West,150
+  Talegaon Dabhade,2,Flat,NA,NA,Resale,Unfurnished,0,2,NA,Freehold,West,24
+  Charholi Budruk,3,Flat,1300,Ready to Move,Resale,Unfurnished,0,3,1,NA,NA,85
+  Undri,2,Flat,868,Ready to Move,Resale,SemiFurnished,0,2,2,NA,NA,67
+  Pimple Saudagar Pimpri Chinchwad,1,Flat,708,Ready to Move,Resale,Furnished,0,2,1,NA,NA,55
+  Wagholi,2,Flat,750,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,45
+  Talegaon Dabhade,1,Flat,532,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,28
+  Kondhwa,1,Flat,625,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,NA,37
+  Wagholi,2,Flat,736,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,40
+  Mahalunge,2,Flat,645,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,57.2
+  Bibwewadi,3,Flat,1300,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,East,110
+  Baner  Pashan Link Road,2,Flat,1067,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,82
+  Wakad,3,Flat,1120,Ready to Move,Resale,Unfurnished,0,3,2,Leasehold,North  East,100
+  Balewadi,3,Flat,NA,Ready to Move,Resale,SemiFurnished,0,3,3,Freehold,West,280
+  Magarpatta City,3,Flat,1322,Ready to Move,Resale,Furnished,1,3,2,Freehold,East,149
+ Mumbai Pune Hwy,3,Flat,1470,Ready to Move,Resale,SemiFurnished,0,4,1,Freehold,East,130
+ Bibwewadi,2,Flat,965,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,95
+  Erandwane,2,Flat,850,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,West,165
+  Manjari Khurd,2,Flat,802,NA,Resale,NA,0,2,NA,NA,NA,42.2
+ Balewadi,3,Flat,1180,Ready to Move,Resale,Unfurnished,0,3,2,Freehold,North,105
+ Rahatni Pimpri Chinchwad,3,Flat,1050,Ready to Move,Resale,Furnished,0,3,1,Cooperative Society,East,100
+  Baner,2,Flat,720,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,65
+  Hinjewadi,1,Flat,430,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,North  East,39.5
+  Bibwewadi,1,Flat,500,Ready to Move,Resale,Unfurnished,0,1,1,Cooperative Society,East,53
+ Bhusari Colony Kothrud,3,Flat,1050,Ready to Move,Resale,Unfurnished,0,3,1,Cooperative Society,East,125
+  Pimple Nilakh Pimpri Chinchwad,4,Flat,2545,Ready to Move,Resale,Unfurnished,0,6,3,Freehold,East,292
+  Baner road,3,Flat,NA,Ready to Move,Resale,Unfurnished,40,2,1,NA,NA,89
+ Bharti Vidyapeeth Campus,1,Flat,638,Ready to Move,Resale,SemiFurnished,0,1,1,Freehold,East,35
+ Wakad,3,Flat,1080,Ready to Move,Resale,Unfurnished,0,3,2,NA,NA,86
+  Kharadi,3,Flat,1016,Ready to Move,Resale,SemiFurnished,0,2,2,Leasehold,North  East,118
+  Kondhwa,2,Flat,820,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,54
+ Katraj,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,East,54
+  MG Road,1,Flat,608,Ready to Move,Resale,Unfurnished,0,1,2,Leasehold,North,65
+ Hinjewadi Phase 3,2,Flat,761,Ready to Move,New Property,Unfurnished,0,2,2,Freehold,East,57
+  Vishal Nagar Pimpri Chinchwad,3,Flat,1069,Ready to Move,Resale,Unfurnished,3,3,1,Freehold,East,85
+ Bhusari Colony Kothrud,3,Flat,1650,Ready to Move,Resale,Unfurnished,0,3,NA,Freehold,North,180
+  Ravet Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,802,2,NA,Power Of Attorney,East,70
+ Nande,1,Flat,480,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,30
+ Lulla Nagar,2,Flat,1000,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,East,95
+  Hadapsar,2,Flat,550,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,East,30
+ Magarpatta Road,2,Flat,NA,Ready to Move,Resale,Furnished,0,2,2,Cooperative Society,East,65
+  Undri,3,Flat,1200,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,North,95
+  Hinjewadi,3,Flat,572,Ready to Move,Resale,Unfurnished,0,2,2,Cooperative Society,East,31
+  Nigdi Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,East,74
+ Navi Peth Sadashiv Peth,2,Flat,777,Ready to Move,Resale,SemiFurnished,0,1,NA,Freehold,East,85
+ Pimple Saudagar Pimpri Chinchwad,3,Flat,1195,Ready to Move,Resale,Unfurnished,0,3,2,Cooperative Society,East,118
+  Somatne Phata,2,Flat,733,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,34.5
+  Sinhagad Road,1,Flat,480,Ready to Move,Resale,Furnished,1,2,1,Freehold,North,40
+  Undri,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,42
+  Akurdi Pimpri Chinchwad,1,Flat,480,Ready to Move,Resale,Unfurnished,0,1,1,NA,East,40
+  Talegaon Dabhade,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,NA,NA,NA,35.1
+ Panchawati Pashan,3,Flat,NA,Ready to Move,Resale,Furnished,1,3,NA,Freehold,East,180
+  Baner,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,West,95.4
+  Wagholi,2,Flat,670,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,North  East,39
+  Hadapsar,2,Flat,1150,Ready to Move,Resale,Unfurnished,0,2,1,Leasehold,NA,99
+ Panchawati Pashan,1,Flat,NA,Ready to Move,Resale,Furnished,0,1,1,Cooperative Society,East,51
+  Chandani Chowk Bavdhan,2,Flat,713,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,64
+  Mundhwa,2,Flat,950,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,141
+  Aundh,2,Flat,698,Possession by Mar 22,Resale,Unfurnished,1,2,1,Freehold,NA,99
+  NIBM Road,4,Flat,1800,Ready to Move,Resale,Unfurnished,2,4,3,Freehold,East,170
+ Pimple Nilakh Pimpri Chinchwad,1,Flat,500,Ready to Move,Resale,Furnished,1,1,1,Freehold,West,40
+  Moshi,1,Flat,516,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,35
+ Off Fatimanagar,2,Flat,850,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,87
+  Bavdhan,4,Flat,1250,Ready to Move,Resale,Unfurnished,1,4,1,Freehold,West,90
+  B.T Kawade Road,2,Flat,1150,Ready to Move,Resale,Furnished,0,2,2,Freehold,East,105
+  Pashan,2,Flat,950,Ready to Move,New Property,Unfurnished,1,2,1,Cooperative Society,East,89.6
+  Koregaon Park,3,Flat,1500,Ready to Move,Resale,SemiFurnished,1,3,1,Cooperative Society,East,275
+ Saideep Apartment Khajina vihir chowk sadashiv peth,2,Flat,650,Ready to Move,Resale,SemiFurnished,0,1,NA,Freehold,East,65
+ Hadapsar,1,Flat,500,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,42
+ Kharadi,2,Flat,929,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,NA,89
+  Chakan,2,Flat,636,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,23
+ Law College Road,3,Flat,NA,Ready to Move,New Property,Unfurnished,2,3,2,Freehold,East,250
+ Sector 29,2,Flat,705,Ready to Move,Resale,Unfurnished,0,2,3,Freehold,West,43.5
+ Hadapsar,3,Flat,1840,Ready to Move,Resale,Unfurnished,0,5,2,Cooperative Society,West,211
+  Wakad,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,East,87
+  Bibwewadi,1,Flat,500,Ready to Move,Resale,Unfurnished,0,1,1,Cooperative Society,East,43.3
+  Bavdhan,3,Flat,972,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,East,83
+ Pent  Hadapsar,6,Flat,3750,Ready to Move,Resale,Furnished,2,7,2,Freehold,West,600
+  Mahalunge,1,Flat,500,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,52
+  Koregaon Park,5,House,4300,Ready to Move,Resale,Furnished,3,5,3,Freehold,East,350
+  Viman Nagar,1,Flat,630,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,55
+  Borade Vasti Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,NA,41
+Sukhsagar Nagar Kondhwa Budruk,3,House,NA,Ready to Move,Resale,Unfurnished,0,2,1,NA,East,55
+  Undri,2,Flat,NA,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,East,48
+ Bavdhan,4,House,NA,Ready to Move,New Property,SemiFurnished,6,7,1,Freehold,East,600
+  Baner,4,Flat,2200,Ready to Move,Resale,Unfurnished,2,4,4,Freehold,East,250
+  Chandani Chowk Bavdhan,2,Flat,NA,Ready to Move,Resale,SemiFurnished,2,2,2,Cooperative Society,East,104
+  NIBM Road,3,Flat,1200,Ready to Move,Resale,SemiFurnished,1,3,1,NA,NA,79
+  Rahatni Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,Freehold,East,47
+  Kondhwa,2,Flat,678,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,54
+  Wakad,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,NA,Freehold,NA,65
+ YashwPhase II Hinjewadi,2,Flat,640,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,56
+  Lohegaon,5,House,5000,Ready to Move,Resale,Unfurnished,4,4,4,Freehold,North,125
+  Hinjewadi,3,Flat,1150,Ready to Move,Resale,Unfurnished,1,3,3,Freehold,East,74
+ Loni Kalbhor,1,Flat,499,Possession by Nov 21,New Property,Unfurnished,5,2,1,Freehold,East,22
+  Wakad,2,Flat,893,Possession by Dec 21,New Property,Unfurnished,0,2,1,Freehold,East,91
+  Bavdhan,3,Flat,1087,Possession by Mar 22,New Property,Unfurnished,2,3,2,Freehold,East,92
+   Baner,2,Flat,785,Possession by Jan 22,New Property,SemiFurnished,1,2,2,Freehold,East,85
+  Thite Nagar Kharadi,1,House,1800,Ready to Move,Resale,Unfurnished,1,6,4,Freehold,East,140
+  Punawale Pimpri Chinchwad,2,Flat,750,Possession by Dec 22,New Property,Unfurnished,1,2,2,Cooperative Society,East,52
+Prabhat Road,3,House,1350,Ready to Move,Resale,SemiFurnished,2,3,1,Cooperative Society,East,325
+  Charholi Budruk,3,Flat,1150,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,77
+  Charholi Budruk,2,Flat,725,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,East,48
+  Undri,1,Flat,510,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,34
+  Hinjewadi Phase 1,2,Flat,711,Possession by Sep 24,New Property,Unfurnished,1,2,1,Freehold,North  East,62.3
+  Porwal Road,2,Flat,740,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,52
+ Baner  Pashan Link Road,4,Flat,NA,Ready to Move,Resale,SemiFurnished,3,5,4,Cooperative Society,North,310
+  Balewadi Gaon Balewadi,4,Flat,1689,Possession by Dec 22,New Property,Unfurnished,2,3,2,Freehold,East,219
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,980,Ready to Move,Resale,SemiFurnished,1,2,3,Freehold,East,87
+  Aundh,3,Flat,1450,Ready to Move,Resale,Unfurnished,0,3,3,NA,NA,158
+ Law College Road,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,200
+ Koregaon Park,2,Flat,900,Ready to Move,Resale,SemiFurnished,0,2,2,NA,NA,115
+   Wagholi,1,Flat,366,Possession by Mar 21,New Property,Unfurnished,1,1,1,Freehold,East,26.2
+  Bavdhan Khurd Bavdhan,3,Flat,1600,Ready to Move,New Property,Unfurnished,1,3,2,Freehold,East,165
+  Bavdhan,2,Flat,750,Ready to Move,Resale,Furnished,1,2,1,Cooperative Society,East,82
+ Padmavati Bibvewadi,2,Flat,753,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,67.4
+ Prabhat Road,4,Flat,3800,Ready to Move,Resale,Furnished,2,4,3,Freehold,East,700
+  Bavdhan,2,Flat,600,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,70
+  Amanora Park Town,3,Flat,2245,Ready to Move,Resale,SemiFurnished,1,5,1,Freehold,East,134
+  Shankar Kalat Nagar,2,Flat,912,Ready to Move,New Property,Furnished,1,2,1,Freehold,East,110
+  Undri,3,Flat,1100,Ready to Move,Resale,SemiFurnished,1,2,3,Freehold,East,72
+ Ram NagarBavdhan Bavdhan,4,House,2350,Ready to Move,Resale,SemiFurnished,0,4,3,Cooperative Society,East,295
+ Pimple Gurav Pimpri Chinchwad,2,Flat,610,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,South,36
+  Dhanori,3,Flat,884,Ready to Move,Resale,Unfurnished,0,2,2,Cooperative Society,East,60
+  Balewadi,3,Flat,1000,Ready to Move,Resale,SemiFurnished,2,3,3,Cooperative Society,East,168
+ Kothrud,3,Flat,1760,Ready to Move,Resale,Furnished,1,3,1,Freehold,East,150
+ Dhayari Phata Dhayari,1,Flat,480,Ready to Move,Resale,Furnished,1,1,1,Freehold,East,42
+ Shivane,2,Flat,1010,Ready to Move,Resale,Furnished,1,2,2,Freehold,East,51
+ Bhugaon Bavdhan,4,House,2825,Ready to Move,Resale,Furnished,4,4,2,Freehold,East,525
+  Pashan,2,Flat,850,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,West,76
+  Balewadi,3,Flat,1070,Possession by Dec 22,New Property,Unfurnished,3,3,2,Freehold,East,125
+  Wagholi,3,Flat,2700,Ready to Move,New Property,Unfurnished,2,4,2,Freehold,East,235
+  Balewadi Phata Baner,2,Flat,800,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,78
+  Park Street Pimpri Chinchwad,2,Flat,970,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,72
+ Pent  NIBM Road,4,Flat,2000,Ready to Move,Resale,Unfurnished,0,4,3,Cooperative Society,East,250
+  Kaspate Vasti Pimpri Chinchwad,3,Flat,1150,Ready to Move,Resale,Unfurnished,2,3,3,Cooperative Society,East,99
+  Hinjewadi Phase 1,2,Flat,715,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,55
+  Wakad,2,Flat,1102,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,90
+ Bhumkar Nagar Pimpri Chinchwad,2,Flat,761,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,West,69.5
+ Magarpatta City,4,House,3000,Ready to Move,Resale,SemiFurnished,2,3,2,Freehold,East,490
+  Chandani Chowk Bavdhan,5,House,4500,Ready to Move,New Property,Unfurnished,4,6,3,Freehold,East,465
+  Balewadi Stadium Balewadi,2,Flat,820,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,65
+ Vadgaon Maval,2,House,2000,Ready to Move,New Property,Furnished,0,3,2,Freehold,East,60
+  Charholi Budruk,2,Flat,784,Possession by Dec 22,New Property,Unfurnished,0,2,1,NA,NA,59.5
+  Anand NagarKothurd Kothrud,2,Flat,810,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,East,115
+  Baner,4,Flat,1375,Ready to Move,New Property,SemiFurnished,0,3,3,Freehold,South,155
+ Pent Hadapsar,3,Flat,1565,Ready to Move,Resale,SemiFurnished,1,3,3,Freehold,East,110
+  Hadapsar,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,2,Freehold,East,47
+  Hinjewadi Phase 1,1,Flat,384,Possession by Dec 22,New Property,Unfurnished,1,1,1,Freehold,NA,33.5
+  Ubale Nagar,2,Flat,808,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,69.5
+  Charholi,1,Flat,480,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,37
+  Punawale Pimpri Chinchwad,2,Flat,860,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,63
+  Siddarth NagarAundh Aundh,0,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,South West,32.9
+  Wagholi,1,Flat,677,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,West,27.4
+ Chandan Nagar Malwadi,2,Flat,715,Possession by Mar 22,Resale,Unfurnished,1,2,2,Freehold,East,65
+  Hinjewadi,1,Flat,580,Ready to Move,Resale,Furnished,2,1,1,Cooperative Society,North,55
+ Gangotri Dhanwantari,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,West,150
+ Nana Peth Ganesh Peth,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,NA,24.5
+  Baner,2,Flat,1000,Ready to Move,Resale,Unfurnished,1,2,3,Cooperative Society,East,90
+ Tingre Nagar,2,Flat,750,Ready to Move,Resale,SemiFurnished,0,2,2,Cooperative Society,East,67
+  Viman Nagar,4,Flat,2868,Ready to Move,Resale,SemiFurnished,2,6,1,Freehold,North  East,360
+  Laxmi NagarBalewadi,3,Flat,1723,Possession by Dec 22,New Property,Unfurnished,2,3,2,Freehold,East,198
+  Mohammed Wadi,2,Flat,1170,Ready to Move,New Property,Unfurnished,0,2,3,Freehold,North  East,67
+  Hinjewadi Phase 1,3,Flat,1185,Possession by Dec 23,New Property,Unfurnished,1,3,2,Freehold,East,105
+  Sus,2,Flat,660,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,East,50.2
+  Hinjewadi,2,Flat,850,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,West,59.2
+  Koregaon Park,4,Flat,2100,Ready to Move,Resale,Furnished,1,5,3,Freehold,NA,350
+  Awhalwadi,1,House,650,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,East,26
+  Chikhali,1,Flat,490,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,West,28.5
+ Somwar Peth,4,Flat,2104,Ready to Move,Resale,Furnished,1,3,NA,Cooperative Society,South West,380
+ ITI Road,3,Flat,1385,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,East,155
+  Hinjewadi,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,NA,South West,65
+ Ambegaon Budruk,1,Flat,520,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,41
+ Pimpri Chinchwad,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,51
+ Wakad,2,Flat,700,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,57
+  Lohegaon,3,Flat,1037,Ready to Move,Resale,SemiFurnished,1,3,2,Freehold,South  East,95
+  Akurdi Pimpri Chinchwad,1,Flat,480,Ready to Move,Resale,Furnished,0,1,1,Freehold,East,40
+  Kondhwa,3,Flat,1300,Ready to Move,Resale,SemiFurnished,3,3,2,Cooperative Society,East,105
+  Thergaon Pimpri Chinchwad,2,Flat,785,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,North,70
+ Erandwane,3,Flat,1200,Ready to Move,Resale,Furnished,1,3,1,Cooperative Society,South  East,225
+  Wanawari,3,Flat,1500,Ready to Move,Resale,SemiFurnished,1,3,3,Cooperative Society,East,140
+  Patil NagarBalewadi,2,Flat,825,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,East,78
+  Kharadi,2,Flat,990,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,111
+  Bavdhan,3,Flat,NA,Possession by Jun 23,New Property,SemiFurnished,1,2,1,Freehold,East,114
+  Kondhwa,3,Flat,1800,Ready to Move,Resale,Unfurnished,1,3,3,Freehold,East,160
+ Viman Nagar,2,Flat,900,Possession by Jun 22,New Property,Unfurnished,1,2,1,Freehold,East,105
+  Kirtane Baug Mundhwa,3,Flat,1585,Ready to Move,Resale,Furnished,1,3,3,Freehold,East,130
+  Wadgaon Sheri,2,Flat,1000,Ready to Move,Resale,SemiFurnished,0,2,2,Freehold,East,90
+  Hinjewadi,2,Flat,900,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,East,53
+ Pimple Saudagar Pimpri Chinchwad,4,House,2400,Ready to Move,Resale,SemiFurnished,2,3,1,Cooperative Society,East,225
+ Kharadi,6,Flat,900,Ready to Move,New Property,SemiFurnished,1,6,5,Freehold,East,130
+  Kuthwad Colony Lohegaon,2,Flat,721,Ready to Move,Resale,Unfurnished,1,2,3,Freehold,East,46
+  Jadhav Nagar Mundhwa,2,Flat,964,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,North,70
+  Mumbai Pune Hwy,3,Flat,1445,Ready to Move,New Property,Unfurnished,1,3,1,Freehold,East,117
+  Baner,3,Flat,2650,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,375
+  Balewadi,2,Flat,NA,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,90
+  Keshav Nagar Mundhwa,1,Flat,493,Ready to Move,New Property,Unfurnished,1,1,1,Freehold,East,36.3
+   Keshav Nagar Mundhwa,3,Flat,969,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,East,95
+  Ravet Pimpri Chinchwad,2,Flat,680,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,42
+  Balewadi Stadium Balewadi,2,Flat,800,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,61
+  Punawale Pimpri Chinchwad,2,Flat,875,Possession by Jun 21,New Property,Unfurnished,1,2,3,Freehold,East,60
+ Kothrud,3,Flat,1150,Ready to Move,New Property,Unfurnished,1,3,NA,Freehold,West,140
+  Wireless Colony Aundh,2,Flat,1232,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,East,140
+  Indira NagarUndri Undri,3,Flat,950,Ready to Move,Resale,Unfurnished,1,2,3,Cooperative Society,East,53
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,75
+  Vishrantwadi Airport Road,3,Flat,1000,Ready to Move,Resale,SemiFurnished,1,2,3,Cooperative Society,East,90
+  Salunkhe Vihar Mohammed Wadi,3,Flat,1350,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,North,95
+ Koregaon Park,1,Flat,525,Ready to Move,Resale,SemiFurnished,1,1,NA,Freehold,East,71
+ Mangalwar Peth Kasba Peth,2,Flat,950,Ready to Move,Resale,Furnished,0,1,1,Cooperative Society,East,70
+  Koregaon Park,3,Flat,1350,Ready to Move,Resale,Unfurnished,1,4,2,Freehold,North,200
+  Handewadi,2,Flat,657,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,East,32
+ KharadiWagholi,2,Flat,788,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,East,50
+  Rahatni Pimpri Chinchwad,2,Flat,750,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,58
+  Wakad,2,Flat,740,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,56
+  Viman Nagar,4,Flat,1474,Possession by Dec 22,New Property,Unfurnished,2,4,3,Freehold,East,145
+  Magarpatta City,3,Flat,1150,Ready to Move,Resale,Unfurnished,1,3,3,Freehold,North,129
+ Ambegaon Budruk,2,Flat,685,Ready to Move,New Property,SemiFurnished,1,2,2,Freehold,East,57.3
+  Shankar Kalat Nagar,2,Flat,780,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,71
+  Hadapsar,3,Flat,1050,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,East,58
+ Dhayari Phata Dhayari,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,NA,Cooperative Society,East,70
+  Punawale Pimpri Chinchwad,2,Flat,750,Ready to Move,Resale,Unfurnished,1,2,3,Freehold,East,54
+  Bavdhan,2,Flat,800,Ready to Move,Resale,Furnished,1,2,2,Freehold,East,78
+  Viman Nagar,2,Flat,880,Ready to Move,New Property,SemiFurnished,0,2,1,Freehold,East,92
+  Manjri Manjri Budruk,3,Flat,952,NA,New Property,Unfurnished,0,3,NA,NA,NA,78.4
+ Anand Park,3,House,1500,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,85
+   Bopodi Old Mumbai PuneHighway,1,Flat,NA,NA,Resale,SemiFurnished,0,1,NA,NA,NA,38
+  Sinhagad Road,2,Flat,761,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,75
+ NIBM Annexe,3,Flat,1010,Ready to Move,Resale,Unfurnished,1,3,3,Freehold,East,77
+  Keshav Nagar Mundhwa,3,Flat,960,Possession by Jun 23,New Property,Unfurnished,1,3,2,Freehold,West,73
+  Marunji Hinjawadi,2,Flat,722,Ready to Move,New Property,Unfurnished,0,2,3,Freehold,East,45
+ Kalyani Nagar,2,Flat,860,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,West,127
+  Hinjewadi Phase 1,3,Flat,1331,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,North  East,110
+  Baner,2,Flat,925,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,90
+ Yash TwTower Baner,3,Flat,1355,Ready to Move,New Property,Unfurnished,1,4,2,Freehold,East,120
+  Hinjewadi,2,Flat,680,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,East,43
+  Kalubai Nagar Wagholi,3,Flat,2100,Ready to Move,New Property,SemiFurnished,2,4,2,Freehold,East,238
+ Marigold complex Kalyani Nagar,3,Flat,NA,Ready to Move,Resale,SemiFurnished,0,3,2,Freehold,East,185
+  Ravet Pimpri Chinchwad,1,Flat,700,Ready to Move,New Property,Unfurnished,1,2,2,Cooperative Society,East,32.6
+  Mahalunge,2,Flat,721,Possession by Dec 21,New Property,Unfurnished,1,2,3,Freehold,East,52
+  NIBM Annexe,3,Flat,1500,Ready to Move,New Property,Unfurnished,1,3,3,Freehold,East,74.5
+  Amanora Park Town,3,Flat,1250,Ready to Move,New Property,Unfurnished,1,3,2,Freehold,East,130
+  Hinjewadi,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,77
+  Kondhwa,2,Flat,1010,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,85
+ gloxinia greens,3,Flat,1200,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,170
+ Nana Peth Ganesh Peth,3,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,NA,Freehold,East,77
+ Bijali Nagar,1,Flat,516,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,South West,38
+ Sinhagad Road,1,Flat,NA,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,East,59.8
+  Chinchwad Pimpri Chinchwad,1,Flat,560,Ready to Move,Resale,Furnished,0,1,NA,Freehold,North  East,40
+  Katraj Kondhwa Road,2,Flat,738,Ready to Move,Resale,Unfurnished,0,2,1,NA,South  East,69
+ Panchagani Mahabaleshwar,4,House,NA,Ready to Move,Resale,SemiFurnished,4,6,NA,Freehold,NA,175
+  Hinjewadi,0,Flat,445,Ready to Move,Resale,SemiFurnished,1,1,NA,Cooperative Society,East,45
+ Pent  Pimple Nilakh Pimpri Chinchwad,4,Flat,NA,Ready to Move,New Property,SemiFurnished,0,5,2,Cooperative Society,East,411
+  Wadgaon Sheri,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,58
+  Wakad,2,Flat,905,Ready to Move,New Property,SemiFurnished,1,2,2,Cooperative Society,West,79.5
+  Punawale Pimpri Chinchwad,3,Flat,NA,Ready to Move,New Property,Unfurnished,1,3,1,Cooperative Society,East,64
+  Ravet Pimpri Chinchwad,2,Flat,800,Ready to Move,New Property,Unfurnished,1,2,2,Cooperative Society,East,54
+  Roseland Residency Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,2,Freehold,East,79
+  Kharadi,3,Flat,1800,Ready to Move,Resale,Unfurnished,2,3,3,Freehold,East,165
+ Bhusari Colony Kothrud,3,House,2100,Ready to Move,Resale,Unfurnished,0,3,3,Cooperative Society,East,180
+  Sinhagad Road,2,Flat,850,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,110
+  Kothrud,2,Flat,1000,Ready to Move,Resale,Unfurnished,0,2,2,Freehold,East,89
+  Shankar Kalat Nagar,2,Flat,800,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,NA,64
+  Tathawade Dattwadi,2,Flat,781,Possession by Jun 22,New Property,SemiFurnished,1,2,2,Freehold,East,70
+Mundhwa,2,House,750,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,68
+  Kharadi,4,House,NA,Ready to Move,Resale,Unfurnished,1,4,2,Freehold,East,325
+  Kharadi,3,Flat,1395,Ready to Move,New Property,SemiFurnished,0,3,3,Freehold,East,140
+  Balewadi,3,Flat,1230,Ready to Move,Resale,Unfurnished,1,3,3,Freehold,East,100
+  Aundh,2,Flat,1016,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,South,135
+  Fatima Nagar Wanawari,3,House,1500,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,135
+  Baner,3,House,1917,Ready to Move,Resale,Unfurnished,2,3,3,Freehold,East,155
+  Bavdhan,3,Flat,950,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,West,65
+  Chinchwad Pimpri Chinchwad,3,Flat,NA,Ready to Move,Resale,SemiFurnished,0,3,NA,NA,NA,200
+ mahalaxmi vihar,2,Flat,900,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,North  East,90
+ Aundh,2,Flat,1100,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,South,130
+ Brahmarvind Housing Society Pimpri Chinchwad,3,Flat,1050,Ready to Move,Resale,SemiFurnished,0,2,3,Freehold,East,100
+  NIBM Annexe,3,Flat,1462,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,West,98
+  Phursungi,1,Flat,NA,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,30
+  Hadapsar,2,Flat,700,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,North,40
+  Baner,4,Flat,NA,Ready to Move,Resale,SemiFurnished,0,4,2,Cooperative Society,North,340
+  Pimple Saudagar Pimpri Chinchwad,3,Flat,NA,Ready to Move,Resale,Furnished,1,2,1,Cooperative Society,East,95
+  Pimple Nilakh Pimpri Chinchwad,2,Flat,835,Ready to Move,Resale,Furnished,2,2,2,Freehold,East,90
+  Wagholi,1,Flat,520,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,28.5
+  Kharadi,1,Flat,450,Ready to Move,Resale,Unfurnished,1,1,2,Cooperative Society,East,50
+  Wakad,2,Flat,630,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,East,70
+ Wakad,4,Flat,2200,Ready to Move,Resale,Unfurnished,2,4,2,Freehold,South,170
+  Wakad,3,Flat,1138,Ready to Move,New Property,SemiFurnished,0,3,2,Freehold,East,75
+  Laxmi NagarBalewadi,3,Flat,1470,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,125
+  Amanora Park Town,2,Flat,950,Ready to Move,Resale,SemiFurnished,1,2,2,Leasehold,NA,90
+  Tathawade Dattwadi,2,Flat,921,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,80
+  Rahatni Pimpri Chinchwad,2,Flat,890,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,85
+  Dhanori,1,Flat,525,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,45
+  Undri,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,3,NA,NA,NA,100
+ Viman Nagar,3,House,1300,Ready to Move,Resale,Furnished,0,3,4,Cooperative Society,East,179
+  Pimple Saudagar Pimpri Chinchwad,3,Flat,1251,Ready to Move,Resale,Furnished,1,3,4,Freehold,East,135
+  Katraj Kondhwa Road,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,52
+  Viman Nagar,2,House,1500,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,East,115
+  Wakad,3,Flat,1150,Ready to Move,Resale,Unfurnished,1,3,3,Freehold,East,90
+  Wagholi,2,Flat,770,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,44
+  Keshav Nagar Mundhwa,3,Flat,1250,Ready to Move,New Property,SemiFurnished,0,2,1,Freehold,East,106
+ Wadmukhwadi,1,Flat,NA,Possession by Mar 21,Resale,SemiFurnished,0,1,1,Freehold,East,27
+  Swargate Shivaji Road,2,Flat,NA,Ready to Move,Resale,Furnished,0,1,NA,NA,NA,90
+  Undri,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,NA,NA,NA,58
+  Vishrantwadi Airport Road,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,NA,85
+  Vishrantwadi Airport Road,1,Flat,570,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,35
+ Pent Dashrath Nagar,3,Flat,1020,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,East,85
+  Manjri Manjri Budruk,2,Flat,669,Ready to Move,Resale,Unfurnished,0,2,2,Freehold,NA,51
+ Guruwar Peth,2,Flat,780,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,East,82
+  Hinjewadi Phase 2,2,Flat,754,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,61
+ Dhankawadi,4,House,2650,Ready to Move,Resale,Unfurnished,1,5,2,Freehold,North  East,265
+  Warje,2,Flat,850,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,East,60
+  Pirangut,2,Flat,542,Ready to Move,New Property,Unfurnished,1,2,1,Freehold,North  East,34
+ Gahunje,0,Flat,490,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,East,70
+  Baner road,5,House,3500,Ready to Move,Resale,Furnished,3,4,3,Cooperative Society,North  East,651
+ Tathawade Dattwadi,3,House,1196,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,110
+  Hadapsar,2,Flat,903,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,South,80
+  Bavdhan,2,Flat,700,Ready to Move,Resale,Unfurnished,1,2,3,Freehold,West,90.5
+ Bhugaon Bavdhan,1,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,NA,NA,NA,35
+Apartment for Sale  Undri,0,Flat,NA,Ready to Move,Resale,NA,1,NA,NA,Freehold,NA,65
+ Chinchwad Gaon Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,52
+Baramati Pune,3,House,1350,Ready to Move,Resale,Unfurnished,0,4,1,NA,NA,42
+ Hill lock towers,1,Flat,460,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,24
+  Chakan,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,NA,34.5
+  Pirangut,2,Flat,744,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,East,35
+  Wakad,2,Flat,850,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,73
+  Baner Gaon Baner,3,Flat,NA,Ready to Move,Resale,Unfurnished,1,3,3,Cooperative Society,East,98
+  Punawale Pimpri Chinchwad,2,Flat,715,Ready to Move,New Property,SemiFurnished,0,2,2,Freehold,East,45
+  Wakad,3,Flat,1044,Ready to Move,New Property,Unfurnished,1,3,1,Freehold,East,96
+ Wakad,2,Flat,870,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,NA,71
+  Pimple Saudagar Pimpri Chinchwad,3,Flat,1225,Ready to Move,Resale,Unfurnished,0,3,2,Cooperative Society,East,94
+ NDA Road,7,House,8000,Ready to Move,Resale,Furnished,2,8,6,Freehold,North,1200
+  Chinchwad Pimpri Chinchwad,3,Flat,1250,Ready to Move,Resale,Unfurnished,1,3,3,Cooperative Society,North  East,115
+ Manaji Nagar,2,Flat,583,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,47
+  Hinjewadi,1,Flat,415,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,42
+  Lohegaon,1,Flat,502,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,30
+  Wadebolai,2,Flat,500,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,16
+  Wagholi,1,Flat,NA,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,North,32
+  Ravet Pimpri Chinchwad,2,Flat,NA,Possession by Jul 21,Resale,Unfurnished,1,2,NA,Freehold,East,46.4
+ Madhav Nagar Dhanori,2,Flat,993,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,57
+ Ambegaon Budruk,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,1,NA,NA,52
+  Warje,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,North  East,56
+ Kharadi,4,Flat,1300,Ready to Move,Resale,SemiFurnished,0,4,1,NA,NA,320
+  Vishrantwadi Airport Road,1,Flat,550,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,NA,37
+  TapkNagar Pimpri Chinchwad,3,Flat,857,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,81
+ Wadgaon Sheri,2,Flat,950,Ready to Move,New Property,SemiFurnished,0,1,2,Power Of Attorney,East,75
+  Wagholi,2,Flat,600,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,East,33.7
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,NA,NA,NA,60
+  Alandi Kelgaon,1,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,1,NA,NA,23
+ Wireless Colony Aundh,2,House,NA,Immediately,NA,Furnished,1,2,1,NA,East,100
+  Hadapsar Indutrial Estate Hadapsar Old Mumbai PuneHighway,3,Flat,992,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,West,85
+  Kondhwa,3,Flat,1009,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,75
+  NIBM Annexe,2,Flat,926,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,East,62
+  Ambe Gaon,1,Flat,415,Ready to Move,Resale,Unfurnished,0,2,1,NA,East,37
+  Talawade Pimpri,2,Flat,910,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,North,35
+  Undri,2,Flat,774,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,West,50
+  Dange Chowk,2,Flat,900,Ready to Move,Resale,Furnished,1,2,2,Leasehold,East,65
+ Shivane,1,Flat,407,Possession by May 21,Resale,Unfurnished,1,1,1,Freehold,East,24.7
+  Ravet Pimpri Chinchwad,2,Flat,700,Ready to Move,Resale,Unfurnished,0,2,3,Cooperative Society,East,50.5
+  Charholi Budruk,1,Flat,511,Ready to Move,Resale,Unfurnished,1,1,2,Cooperative Society,South  East,43
+  Bhugaon Bavdhan,2,Flat,975,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,West,72
+  Senapati Bapat Road,3,Flat,1132,Ready to Move,Resale,SemiFurnished,1,3,2,Freehold,East,180
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,881,Ready to Move,Resale,Unfurnished,1,2,3,Freehold,East,73
+ Mundhwa,3,Flat,1200,Ready to Move,Resale,SemiFurnished,0,3,2,NA,NA,150
+  panchratna apartment fatemanagar wanowrie,1,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,NA,NA,NA,38
+  Pimpri Chinchwad,3,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,3,NA,NA,70
+ Dhayari,1,Flat,500,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,27
+ Pimple Saudagar Pimpri Chinchwad,2,Flat,700,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,75
+  Sudharshan Nagar Pimpri Chinchwad,2,Flat,768,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,West,76
+  Shewalewadi,2,Flat,531,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,North  East,50
+ Parvati Paytha,2,Flat,550,Ready to Move,Resale,Unfurnished,0,1,NA,Cooperative Society,NA,55
+ Karvenagar,3,Flat,997,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,115
+  Undri,1,Flat,400,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,35
+  Vishrantwadi Airport Road,2,Flat,1144,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,West,82
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,860,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,West,82
+   Dangat Patil Nagar,2,Flat,880,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,38
+ Handewadi Road,2,Flat,740,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,45
+  Undri,3,Flat,1275,Ready to Move,Resale,SemiFurnished,1,3,NA,Freehold,East,105
+  Dhayari,1,Flat,400,Ready to Move,New Property,Unfurnished,1,1,1,Freehold,East,34
+ Hinjewadi Phase 1,3,Flat,1395,Ready to Move,Resale,Furnished,1,3,2,Cooperative Society,East,120
+ Bhavani Peth Kasba Peth,2,Flat,780,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,North,76
+ Anand Nagar,3,Flat,NA,Ready to Move,Resale,Furnished,0,3,NA,Cooperative Society,East,125
+  Lohegaon,2,Flat,700,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,65
+ Wakadkar Wasti Pimpri Chinchwad,2,Flat,650,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,70
+  Bibwewadi,2,Flat,920,Ready to Move,New Property,SemiFurnished,1,2,2,Freehold,West,80
+ Manjri Manjri Budruk,2,Flat,795,Ready to Move,Resale,Furnished,1,2,2,Freehold,North,115
+ Sukhsagar Nagar Kondhwa Budruk,1,Flat,580,Ready to Move,Resale,Furnished,603,1,1,Cooperative Society,West,41
+  NIBM Road,2,Flat,880,Ready to Move,Resale,Furnished,1,2,2,Cooperative Society,NA,78
+  Kothrud,3,Flat,882,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,East,175
+  Hadapsar,2,Flat,880,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,62
+  Wakad,4,Flat,1753,Ready to Move,Resale,SemiFurnished,2,5,1,Freehold,East,230
+ Bhekarai Nagar,1,Flat,490,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,28
+  Sus,2,Flat,650,Ready to Move,Resale,Unfurnished,1,2,3,Freehold,West,62
+  Baner road,0,Flat,270,Ready to Move,Resale,Furnished,0,1,NA,Cooperative Society,East,27.5
+ Talegaon Dabhade,4,House,1800,Ready to Move,Resale,Furnished,0,5,1,Freehold,West,130
+  Bavdhan,3,Flat,1550,Ready to Move,Resale,Furnished,2,3,2,Freehold,East,200
+  Handewadi,1,Flat,436,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,North,30
+  NIBM Annexe,2,Flat,647,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,West,44
+  Koregaon Park,3,Flat,1301,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,172
+   Bavdhan Khurd Bavdhan,2,Flat,689,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,East,65.8
+ Kasba Peth,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,NA,28
+ Chinchwad Pimpri Chinchwad,1,Flat,537,Ready to Move,Resale,Unfurnished,1,1,2,Freehold,North,39.9
+  Kondhwa,3,Flat,1197,Ready to Move,Resale,Unfurnished,2,3,1,Freehold,East,110
+ Hinjewadi,2,Flat,436,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,North,25
+ Hadapsar,5,House,5500,Ready to Move,Resale,SemiFurnished,0,5,2,Freehold,NA,380
+  Moshi,2,Flat,670,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,40
+  Vijay NagarKalewadi Pimpri Chinchwad,2,Flat,676,Ready to Move,Resale,Unfurnished,1,2,NA,Cooperative Society,NA,58
+  Kondhwa,2,Flat,924,Ready to Move,Resale,SemiFurnished,2,2,1,Cooperative Society,East,72
+ KrushnRup,1,Flat,460,Possession by Mar 22,Resale,Unfurnished,0,1,1,Freehold,East,19.5
+ Sopan Baug,3,Flat,NA,Ready to Move,Resale,SemiFurnished,1,3,1,Cooperative Society,East,115
+   Dhanori,2,Flat,750,Ready to Move,Resale,Furnished,1,2,2,Leasehold,West,70
+  Aundh,4,Flat,1869,Ready to Move,Resale,Furnished,1,3,3,Freehold,NA,250
+ Sahajanand Society Part 2 Kothrud,6,House,2600,Ready to Move,Resale,Unfurnished,0,3,6,Cooperative Society,North,400
+NIBM Road,2,House,NA,Ready to Move,Resale,Unfurnished,20,2,2,Freehold,NA,900
+ Purnanagar,2,Flat,736,Ready to Move,Resale,Furnished,0,2,1,Freehold,East,58
+ NIBM Road,3,Flat,1220,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,South,110
+   Vallabh Nagar Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,85
+  Hinjewadi,2,Flat,648,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North  East,60
+  Marunji Hinjawadi,3,Flat,572,Ready to Move,Resale,Unfurnished,1,2,1,Power Of Attorney,North  East,24
+ Undri,1,Flat,505,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,27
+ Govindkunj co op housing society,1,Flat,435,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,27
+Pimple Gurav Pimpri Chinchwad,3,House,1730,Ready to Move,Resale,Furnished,1,4,2,Freehold,East,175
+ rainbow vistaa,2,Flat,723,Ready to Move,Resale,SemiFurnished,0,2,1,NA,East,60
+  Undri,2,Flat,62,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,NA,41
+  Talegaon Dabhade,2,Flat,691,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,North,29
+  Hadapsar,3,Flat,NA,Ready to Move,Resale,Furnished,0,3,NA,NA,NA,72
+    Manjri Manjri Budruk,0,House,2800,Ready to Move,Resale,Furnished,1,6,5,Freehold,West,97.2
+  Koregaon Park,2,Flat,1100,Ready to Move,Resale,Furnished,1,2,2,Freehold,South  East,90
+ Nigdi Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,Freehold,North,80
+ Siddhashila Eela,2,Flat,870,Ready to Move,Resale,Unfurnished,0,2,2,Cooperative Society,East,60
+  Pashan Gaon Pashan,2,Flat,705,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North,68
+ Pradhikaran Bhosari,3,Flat,951,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,70
+ Gahunje,2,Flat,1050,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,98
+  KondhaweDhawade,1,Flat,480,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,21
+ Wadgaon Sheri,1,Flat,500,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,West,46
+ Manjri Manjri Budruk,2,Flat,770,Ready to Move,Resale,Furnished,0,2,3,Freehold,NA,70
+ Friends Heritage,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,20.5
+  Karvenagar,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,1,Freehold,East,100
+  Moshi,1,Flat,430,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,30
+ Gahunje,1,Flat,482,Ready to Move,Resale,SemiFurnished,1,1,1,NA,East,60
+  Ravet Pimpri Chinchwad,3,Flat,1023,Ready to Move,Resale,Unfurnished,0,3,2,Freehold,East,74
+Tingre Nagar,3,House,NA,NA,Resale,SemiFurnished,0,3,1,NA,NA,125
+  Keshav Nagar Mundhwa,2,Flat,737,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,56.5
+  Katraj Kondhwa Road,2,Flat,685,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,60
+  Ambe Gaon,2,Flat,673,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,53
+  Koregaon Park,2,Flat,900,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,110
+ Vishrantwadi Airport Road,2,Flat,950,Ready to Move,Resale,Furnished,1,2,1,Freehold,North,75
+  Thergaon Pimpri Chinchwad,2,Flat,634,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,55
+ Talegaon Dabhade,2,Flat,652,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,NA,35.5
+Wagholi,2,House,900,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,175
+ Shaniwar peth Narayan Peth,3,Flat,1400,Ready to Move,Resale,Unfurnished,0,2,3,NA,NA,180
+ Hadapsar,3,Flat,1550,Ready to Move,Resale,Furnished,2,4,1,Freehold,West,210
+ Mumbai Pune Hwy,3,Flat,1445,Ready to Move,Resale,SemiFurnished,2,3,1,Freehold,East,152
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,700,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,75
+  Wadgaon Sheri,1,Flat,500,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,East,43
+ Wanowrie,3,Flat,1400,Ready to Move,Resale,Furnished,1,3,1,Freehold,North  East,150
+ Warje,5,House,NA,Ready to Move,Resale,SemiFurnished,0,5,2,Freehold,East,260
+  Wagholi,1,Flat,620,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,34
+  Manjri Manjri Budruk,5,House,750,Ready to Move,Resale,Unfurnished,0,5,1,Freehold,East,59
+  Thergaon Pimpri Chinchwad,2,Flat,847,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,59.5
+ Gangadham Phase 2,2,Flat,860,Ready to Move,Resale,Furnished,1,2,1,Freehold,South,90
+  Undri,3,House,NA,Ready to Move,Resale,Unfurnished,3,3,NA,Freehold,North,130
+ Hinjewadi Rajiv Gandhi Infotech Park Hinjawadi,3,Flat,1225,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,North,75
+ Pimpri Pimpri Chinchwad,3,Flat,1260,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,East,100
+  Mohammed Wadi,3,Flat,1191,Ready to Move,Resale,Furnished,3,3,1,Freehold,West,115
+  Wanawari,2,Flat,980,Ready to Move,Resale,Furnished,1,2,1,Freehold,West,98
+  Magarpatta City,3,Flat,1200,Ready to Move,Resale,Furnished,1,3,1,Freehold,West,131
+ Hadapsar,4,House,1800,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,North  West,95
+  Shahunagar Pimpri Chinchwad,1,Flat,486,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,37
+  Chakan,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,West,35
+  Hadapsar,5,Flat,5680,Ready to Move,Resale,Unfurnished,0,6,4,Cooperative Society,East,410
+  Kondhwa,4,Flat,1812,Ready to Move,Resale,Unfurnished,0,6,1,Cooperative Society,East,198
+  Shivraj NagarRahatni Pimpri Chinchwad,3,Flat,1275,Ready to Move,Resale,Furnished,1,3,2,Freehold,East,130
+  Morwadi Pimpri Chinchwad,2,Flat,680,Ready to Move,Resale,Furnished,0,2,1,Cooperative Society,West,78
+ Pimpri Pimpri Chinchwad,3,Flat,1393,Ready to Move,Resale,Furnished,2,3,2,Freehold,East,150
+  Pradhikaran Bhosari,1,House,480,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,NA,45
+  Bhusari Colony Kothrud,1,Flat,885,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,East,69.9
+ Talegaon Dabhade,3,Flat,1300,Ready to Move,Resale,Furnished,1,3,2,Freehold,North,95
+  Wakad,2,Flat,811,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,74.5
+ Pradhikaran Bhosari,4,House,1760,Ready to Move,Resale,Furnished,2,4,1,Freehold,East,250
+ Kharadi Gaon Kharadi,4,Flat,2295,Ready to Move,Resale,SemiFurnished,3,5,5,Freehold,East,310
+  Chakan,2,Flat,1020,Ready to Move,Resale,Unfurnished,2,2,2,Freehold,NA,30.6
+Malavli,2,House,1500,NA,Resale,SemiFurnished,0,3,2,NA,NA,65
+  Pimpri Chinchwad,1,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,NA,NA,NA,44
+ Shikrapur,1,Flat,NA,Ready to Move,Resale,Unfurnished,1,1,NA,NA,NA,20
+ Udyog nagar Hadapsar,2,Flat,NA,Ready to Move,Resale,SemiFurnished,0,2,NA,NA,NA,41.5
+ Reelicon Alpine Ridge,2,Flat,806,Ready to Move,Resale,Furnished,0,2,2,NA,NA,79.9
+  Mulshi,1,Flat,NA,NA,Resale,SemiFurnished,0,2,NA,NA,NA,25
+ Wadgaon Sheri Opp post office,1,Flat,NA,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,West,28
+ Kotkar Lane off Bhau Patil Marg Aundh Road.,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,NA,75
+ Mukund Nagar,4,House,2800,Ready to Move,Resale,Unfurnished,0,4,2,Freehold,East,551
+    Vallabh nagar,3,Flat,1076,Ready to Move,Resale,SemiFurnished,2,3,2,Cooperative Society,South,96
+ Talegaon Dabhade,2,Flat,647,Possession by Jun 21,Resale,Unfurnished,0,2,1,Freehold,East,34
+  Sus,2,Flat,980,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,North,60
+  Marunji Hinjawadi,2,Flat,760,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,60
+  Meera Nagar Koregaon Park,2,Flat,1000,Ready to Move,Resale,Furnished,1,2,3,Freehold,NA,135
+  Baner Gaon Baner,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,90
+  Bhukum,1,Flat,440,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,West,28
+  Ravet Pimpri Chinchwad,2,Flat,850,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,52
+  Hinjewadi,1,Flat,456,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,NA,36
+ Somatne Phata,2,Flat,619,Ready to Move,New Property,Unfurnished,0,2,1,NA,NA,38
+ Spine Road,2,Flat,NA,Ready to Move,Resale,SemiFurnished,24,1,1,Cooperative Society,West,49
+  Sinhagad Road,2,Flat,820,Ready to Move,Resale,Unfurnished,0,2,2,Freehold,East,64
+  Ranjan Gaon,1,Flat,NA,Ready to Move,Resale,SemiFurnished,1,1,NA,Cooperative Society,East,20
+ Ambegaon Budruk,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,45
+  Kharadi,3,Flat,1160,Ready to Move,Resale,SemiFurnished,2,3,2,Freehold,North  East,140
+  Sasane Nagar Hadapsar,2,Flat,789,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,45
+  Kondhwa,3,Flat,818,Ready to Move,Resale,Unfurnished,0,2,2,Freehold,North,55
+ Wadgaon Sheri,1,Flat,3000,Ready to Move,Resale,SemiFurnished,1,1,NA,NA,NA,145
+ Talegaon Dabhade,1,Flat,484,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,24
+ Sinhagad Road,3,House,1266,Ready to Move,Resale,Unfurnished,2,3,1,Freehold,East,135
+ Yashwant Nagar,2,Flat,654,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,West,40
+  Pimple Nilakh Pimpri Chinchwad,1,Flat,526,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,West,50
+ Madhuban ColonyOld Sangvi Pimpri Chinchwad,2,Flat,790,Ready to Move,Resale,Unfurnished,1,1,2,Power Of Attorney,East,48
+  Somatne Phata,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,NA,39.5
+  Pirangut,2,Flat,690,Ready to Move,Other,Unfurnished,1,2,1,Freehold,West,42
+  Talegaon Dabhade,1,Flat,510,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,24
+  Pirangut,1,Flat,450,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,East,27
+  Ravet Pimpri Chinchwad,2,Flat,721,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,North,65
+  Kondhwa,2,Flat,NA,Ready to Move,New Property,Unfurnished,0,2,2,Freehold,NA,72
+ Narhe,2,Flat,770,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,55
+  Dighi,1,Flat,560,Ready to Move,Resale,SemiFurnished,1,1,2,Freehold,East,37
+ Khed Shivapur Road,1,Flat,495,Ready to Move,Resale,Unfurnished,0,1,1,Cooperative Society,East,18
+ Wadmukhwadi,3,Flat,910,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,East,60
+ Mahalunge,2,Flat,790,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,82
+  Yewalewadi Katraj,3,Flat,1221,Ready to Move,Resale,SemiFurnished,1,4,2,Freehold,West,75
+ Talegaon Dabhade,4,House,NA,Ready to Move,Resale,Furnished,1,4,NA,Freehold,NA,600
+  Hinjewadi,2,Flat,750,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,67
+ Kalewadi,1,Flat,470,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,North,38
+  Kasar Amboli,2,Flat,720,Ready to Move,Resale,Furnished,50,2,2,Leasehold,East,37.5
+  Dhayari,1,Flat,450,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,30
+ Talegaon Dhamdhere,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,NA,NA,NA,19
+  NIBM Road,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,52
+  Bibwewadi,1,Flat,NA,Ready to Move,Resale,Furnished,0,1,1,Freehold,East,48
+  Loni Kalbhor,2,Flat,625,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,35
+  Hinjewadi,2,Flat,NA,NA,Resale,Unfurnished,0,2,NA,Cooperative Society,East,71
+ Marvel ideal Spacio undri,3,Flat,NA,Ready to Move,Resale,Furnished,0,3,NA,NA,NA,105
+  Ambegaon Pathar Vadgaon Budruk,2,Flat,750,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,42
+  Kanhe,1,Flat,NA,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,South  East,22
+  Dighi,1,Flat,500,Ready to Move,Resale,Unfurnished,100,1,NA,Freehold,East,32
+  Hinjewadi Phase 2,2,Flat,1232,Ready to Move,Resale,Unfurnished,115,2,2,Freehold,NA,72
+  Manjri Manjri Budruk,4,House,2456,Ready to Move,Resale,SemiFurnished,0,3,2,Cooperative Society,NA,205
+ Alandi Road,2,Flat,620,Ready to Move,Resale,Unfurnished,0,2,1,NA,NA,37
+ Dhayari,2,Flat,883,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,West,50
+  Kasar Amboli,2,Flat,587,Ready to Move,Resale,Unfurnished,0,1,1,NA,NA,32
+  Magarpatta City,4,Flat,NA,Ready to Move,Resale,Furnished,0,4,1,Cooperative Society,East,180
+ Girish Society,4,House,NA,Ready to Move,Resale,SemiFurnished,0,4,NA,NA,NA,295
+  Kharabwadi,2,Flat,800,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,29.5
+ RiveraApartment Tadiwala Road,3,Flat,900,Ready to Move,Resale,Furnished,1,2,NA,Freehold,NA,75
+   Kondhwa,2,Flat,752,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,57
+  Undri,3,House,NA,Ready to Move,Resale,Unfurnished,3,3,3,Freehold,North,128
+ Dhairy,1,Flat,570,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,North  East,32
+  Kondhwa,3,House,NA,Ready to Move,New Property,Furnished,2,2,2,Freehold,West,200
+  Kondhwa,2,Flat,750,Ready to Move,Resale,SemiFurnished,110,2,2,Freehold,North  East,55
+ J k hill park I wing,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,62
+  Pimple Nilakh Pimpri Chinchwad,1,Flat,559,Ready to Move,Resale,Furnished,1,1,1,NA,East,48
+ Mumbai Pune Hwy,2,Flat,990,Ready to Move,Resale,Unfurnished,0,2,2,Freehold,East,88
+  Sinhagad Road,2,Flat,800,Ready to Move,Resale,Unfurnished,0,1,1,NA,South,43
+  Hadapsar,2,Flat,300,Ready to Move,Resale,Unfurnished,1,2,1,NA,East,120
+  Rajas Society Kondhwa Budruk,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,South  East,55
+ Urawade,3,House,2700,Ready to Move,Resale,Furnished,3,3,1,Leasehold,West,175
+  Viman Nagar,2,Flat,850,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,North  East,88
+ sai kamal residency ramnagar colony,4,House,NA,Ready to Move,Resale,Furnished,1,5,NA,NA,NA,325
+  Ravet Pimpri Chinchwad,2,Flat,730,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,61.9
+  Kondhwa,3,Flat,1435,Ready to Move,Resale,SemiFurnished,2,3,2,Freehold,East,140
+  Kondhwa,4,Flat,2600,Ready to Move,Resale,Furnished,3,6,NA,Freehold,North  East,195
+ Kolhewadi Khadakwasla,2,Flat,765,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,41
+  Hinjewadi Rajiv Gandhi Infotech Park Hinjawadi,2,Flat,750,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,South  East,59.9
+  Dhayari,2,Flat,837,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,50
+ Ambegaon Budruk,2,Flat,630,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,North,55
+  Sus,1,Flat,570,Ready to Move,Resale,Unfurnished,1,1,2,Cooperative Society,North  West,45
+Lonavala,3,House,NA,Ready to Move,Resale,Furnished,0,3,3,Cooperative Society,East,165
+ Shravandhara Housing Society,3,Flat,990,Ready to Move,Resale,Furnished,0,2,1,Leasehold,North  East,78
+  Wadgaon Sheri,2,Flat,697,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,NA,66.5
+ Baner,2,Flat,740,NA,New Property,Unfurnished,0,2,2,Freehold,North,69.9
+  Kondhwa,3,Flat,1314,Ready to Move,Resale,Unfurnished,0,3,4,Freehold,East,95
+  Talegaon Dabhade,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,East,45
+  Talegaon Dabhade,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,North,38
+  Ravet Pimpri Chinchwad,2,Flat,574,Ready to Move,Resale,Unfurnished,0,2,2,NA,East,50
+ Pimpri Chinchwad,1,Flat,522,Ready to Move,Resale,SemiFurnished,2,1,1,Freehold,East,35
+ Viman Nagar,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,4,2,Freehold,East,250
+  B.T Kawade Road,2,Flat,1050,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,110
+ Boat Club Road,5,House,4500,Ready to Move,Resale,Furnished,1,4,3,Cooperative Society,North,1200
+  Mundhwa,4,House,3600,Ready to Move,Resale,Unfurnished,2,5,1,Freehold,East,825
+  Ravet Pimpri Chinchwad,1,Flat,436,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,39
+ Mumbai Pune Hwy,2,Flat,947,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,85
+  Punawale Pimpri Chinchwad,1,Flat,480,Ready to Move,Resale,Unfurnished,2,1,2,Cooperative Society,South  East,34
+  Koregaon Park,2,Flat,950,Ready to Move,Resale,Unfurnished,1,2,NA,Cooperative Society,East,95
+ Bhukum,3,Flat,1233,Ready to Move,Resale,Unfurnished,2,3,2,Freehold,West,100
+  Hinjewadi Phase 2,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,3,Leasehold,NA,72
+  Sus,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,NA,Freehold,East,55
+ Rajgruha Society,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,60
+ SAI SHRADHA SOCIETY PIMPRI,1,Flat,450,Ready to Move,Resale,SemiFurnished,0,1,1,Freehold,West,36
+ Bavdhan,1,Flat,1431,Ready to Move,Resale,Furnished,1,1,1,Freehold,East,86
+  Sahakar Nagar Parvati Darshan,3,Flat,863,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,185
+ Undri,3,Flat,1200,Ready to Move,Resale,Unfurnished,1,3,NA,Freehold,East,77
+ Katraj,1,Flat,396,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,34
+  Mundhwa,2,Flat,858,Ready to Move,Resale,SemiFurnished,1,2,2,Leasehold,East,80
+  Sutarwadi Pashan,2,Flat,610,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,West,62
+  Undri,2,Flat,1020,Ready to Move,Resale,Unfurnished,0,2,2,NA,NA,50
+  Dighi,2,Flat,754,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,43.5
+  Talegaon Dabhade,1,Flat,505,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,22
+  Pimpri Chinchwad,1,Flat,NA,Ready to Move,Resale,SemiFurnished,0,1,NA,NA,NA,28
+ J.M Road,2,Flat,866,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North,190
+  Talegaon Dabhade,2,Flat,600,Ready to Move,New Property,Unfurnished,1,1,1,Freehold,East,28.5
+  NIBM Annexe,5,Flat,2520,Ready to Move,Resale,Unfurnished,0,4,4,Cooperative Society,East,185
+  Pirangut,1,Flat,369,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,North,20
+  Kondhwa,2,Flat,NA,Ready to Move,Resale,Unfurnished,401,2,NA,Cooperative Society,West,57
+  Wanawari,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,4,1,Freehold,North,250
+  Talegaon Dabhade,2,Flat,615,Ready to Move,New Property,Unfurnished,1,2,3,Freehold,East,34
+  Alandi Kelgaon,1,Flat,542,Ready to Move,Resale,Unfurnished,0,1,2,Freehold,North  East,22
+  Katraj,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,North  East,53
+  Vallabh Nagar Pimpri Chinchwad,7,House,700,Ready to Move,Resale,SemiFurnished,0,3,2,Freehold,North  East,140
+ Boat Club Road,5,House,NA,Ready to Move,Resale,Furnished,1,4,3,Cooperative Society,North,1250
+ Tathawade Dattwadi,1,Flat,516,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,40
+  Sinhagad Road,2,Flat,621,Ready to Move,Resale,Unfurnished,0,2,3,Freehold,East,105
+ Lonikand,1,Flat,497,Ready to Move,New Property,Unfurnished,0,2,1,Freehold,West,13
+  Park Street Pimpri Chinchwad,5,Flat,4000,Ready to Move,Resale,Unfurnished,4,5,2,Freehold,West,340
+  Moshi,2,Flat,NA,Ready to Move,Resale,Furnished,1,2,1,Freehold,North,39
+ Hadapsar,1,Flat,480,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,West,35
+  Magarpatta City,3,Flat,1380,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,West,135
+ Nilayam Cooperative Housing Society,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,Cooperative Society,East,68
+ Camp Pune Privilege Apt,2,Flat,NA,Ready to Move,Resale,Furnished,0,2,NA,NA,NA,115
+  Hinjewadi Phase 1,2,Flat,575,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,NA,61
+  Kothrud,1,Flat,480,Ready to Move,Resale,SemiFurnished,0,1,NA,NA,NA,65
+ Old Sanghvi,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,NA,NA,NA,48
+  Shree Madhavashram Apartment Baner,2,Flat,NA,NA,Resale,Unfurnished,0,2,NA,NA,NA,85
+ Shivane,2,Flat,620,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,37
+  Kharadi,2,Flat,828,Possession by Dec 23,Resale,Unfurnished,0,2,3,Freehold,South,85
+  Ashoka Nagar Kharadi,2,Flat,820,Possession by Jul 23,Resale,Unfurnished,12,2,2,NA,NA,72.9
+  Undri,3,Flat,NA,Ready to Move,Resale,SemiFurnished,1,3,4,NA,North  East,75
+  Pisoli,1,Flat,435,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,East,23.8
+  Moshi,2,Flat,850,Ready to Move,Resale,Unfurnished,0,2,2,NA,NA,36
+  Hadapsar,2,Flat,800,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,82.5
+ Bhau Patil Road,1,Flat,555,Ready to Move,Resale,Unfurnished,0,1,NA,Cooperative Society,East,38
+  Moshi,4,Flat,1300,Ready to Move,Resale,NA,0,3,3,NA,NA,105
+  Moshi gaon Pimpri Chinchwad,2,Flat,690,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,East,56
+  Loni Kalbhor,2,Flat,NA,Ready to Move,Resale,Unfurnished,3,2,NA,Cooperative Society,East,35
+ Dhayari,1,Flat,380,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,North,24
+  Dhayari Phata Road,2,Flat,NA,Ready to Move,Resale,Unfurnished,44,2,2,Cooperative Society,East,65
+  Kondhwa,2,Flat,1300,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,100
+ Ambegaon Pathar Vadgaon Budruk,4,House,NA,Ready to Move,Resale,SemiFurnished,1,3,NA,Freehold,South  East,115
+  Dighi,2,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,NA,51.5
+  Loni Kalbhor,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,Cooperative Society,East,26
+  Hinjewadi Phase 2,2,Flat,608,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,NA,65
+Manchar,2,House,950,Ready to Move,Resale,Unfurnished,0,1,2,NA,NA,32
+ Phursungi,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,45
+   Pune,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,1,NA,NA,South West,50
+  Laxman NagarBaner Baner,3,Flat,NA,Ready to Move,Resale,Furnished,0,3,1,NA,NA,320
+  Phursungi,2,Flat,612,Ready to Move,Resale,Furnished,1,2,1,Freehold,West,38
+  Pirangut,3,Flat,860,Ready to Move,Resale,Unfurnished,0,3,1,Freehold,East,54
+  Atur Nagar Undri,2,Flat,794,Ready to Move,Resale,SemiFurnished,0,2,1,NA,NA,60
+ Talegaon Dabhade,2,Flat,950,Ready to Move,Resale,Unfurnished,1,2,3,Cooperative Society,East,34
+ Wakad,2,Flat,656,Possession by Apr 21,Resale,Unfurnished,0,2,2,Freehold,East,53
+ Mandai Shukrawar Peth Shivaji Road,1,Flat,480,Ready to Move,Resale,Unfurnished,0,1,NA,NA,NA,50
+ Narhe,3,House,2200,Ready to Move,Resale,Furnished,2,4,1,Freehold,East,125
+ MountaRaga Uruli Devachi,2,Flat,650,Ready to Move,Resale,Furnished,0,2,1,Freehold,East,37.5
+ ParEmpire Dhayari,1,Flat,578,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,East,35
+ DSK Vishwa Dhayari,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,NA,Freehold,East,61
+  Mamurdi Dehu Road,3,Flat,945,Ready to Move,Resale,SemiFurnished,1,3,1,Freehold,East,75
+ Sus,2,Flat,778,Ready to Move,Resale,SemiFurnished,2,2,2,Cooperative Society,East,85
+  Talegaon Dabhade,3,House,1620,Ready to Move,Resale,SemiFurnished,1,3,1,Cooperative Society,East,137
+  Chakan,1,Flat,NA,Ready to Move,Resale,Unfurnished,0,1,NA,NA,NA,23.5
+  Dhayari Phata Road,1,Flat,407,Ready to Move,Resale,Furnished,505,1,1,Freehold,North  East,35
+  Viman Nagar,3,Flat,NA,Ready to Move,Resale,SemiFurnished,0,3,1,NA,NA,135
+  Sinhagad Road,3,Flat,960,Ready to Move,Resale,Unfurnished,0,3,3,Freehold,NA,86
+  Lonikand,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,North  East,35
+  Gadital Hadapsar,3,Flat,900,Ready to Move,Resale,SemiFurnished,1,3,2,Freehold,NA,75
+ Erandwane,2,Flat,807,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,West,170
+  Koregaon Park,3,Flat,NA,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,140
+  Kharadi,3,Flat,1400,Ready to Move,Resale,SemiFurnished,0,3,2,Freehold,North,120
+  Hadapsar,2,Flat,954,Ready to Move,New Property,Unfurnished,0,2,1,Leasehold,East,80
+  Talegaon Dabhade,2,Flat,700,Ready to Move,New Property,Unfurnished,1,2,NA,Freehold,East,39.8
+  Keshav Nagar Mundhwa,2,Flat,715,Ready to Move,New Property,SemiFurnished,1,2,3,Freehold,East,65
+  Rahatni Pimpri Chinchwad,1,Flat,450,Ready to Move,Resale,SemiFurnished,1,1,NA,Cooperative Society,East,32
+  Ravet Pimpri Chinchwad,1,Flat,415,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,East,38
+  Bavdhan,3,Flat,1136,Ready to Move,Resale,Unfurnished,1,3,3,Cooperative Society,North,125
+   Dhayari,2,Flat,780,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North,40
+  Bhugaon Bavdhan,1,Flat,442,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,West,45
+  EON Free Zone Kharadi,4,Flat,1661,Ready to Move,New Property,SemiFurnished,3,4,2,Freehold,East,243
+  Sinhagad Road,2,Flat,920,Ready to Move,Resale,Unfurnished,0,2,2,Cooperative Society,East,58
+  Amanora Park Town,2,Flat,800,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,North  West,75
+  Kondhwa,3,Flat,1166,Ready to Move,Resale,Furnished,1,3,2,Freehold,West,93
+ Punawale Pimpri Chinchwad,2,House,664,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,46
+  Hinjewadi,2,Flat,980,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,60
+  Manjri Manjri Budruk,2,Flat,766,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,65
+  Kondhwa,3,Flat,966,Ready to Move,Resale,SemiFurnished,2,3,1,Freehold,North,80
+ Kondhwa Budruk,1,Flat,475,Ready to Move,Resale,Unfurnished,0,1,2,Freehold,East,22.8
+ Chakan,1,Flat,400,Ready to Move,Resale,Unfurnished,1,1,1,Cooperative Society,East,14.5
+  Vadgaon Maval,1,Flat,280,Ready to Move,Resale,Unfurnished,0,1,1,Freehold,NA,19
+  Wadki,2,Flat,926,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,29
+  Ravet Pimpri Chinchwad,2,Flat,736,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,56
+ Vadgaon Maval,1,Flat,504,Ready to Move,Resale,Unfurnished,1,1,NA,Freehold,West,35
+  Wagholi,2,Flat,875,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,32
+  Thergaon Pimpri Chinchwad,2,Flat,750,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,70
+ Dhanori Lohegaon Road,0,House,NA,Ready to Move,Resale,Unfurnished,4,NA,NA,Freehold,East,249
+Bhosari,2,House,NA,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,100
+  Mahalunge,2,Flat,800,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,82
+ Hingne Khurd,2,Flat,700,Ready to Move,Resale,Unfurnished,0,2,2,Cooperative Society,East,37
+  Vadgaon Maval,9,Flat,NA,Ready to Move,Resale,Unfurnished,0,9,NA,NA,NA,90
+ Tungarli Lonavala,4,House,1500,Ready to Move,Resale,SemiFurnished,3,3,2,Freehold,NA,180
+ Keshav Nagar Mundhwa,3,House,1200,Ready to Move,Resale,SemiFurnished,8,3,2,Freehold,East,130
+ Lonavala,3,House,NA,Ready to Move,Resale,Unfurnished,0,3,2,NA,NA,150
+ CHANDRAMA RESIDENCY AND GAR,1,Flat,492,Ready to Move,Resale,SemiFurnished,0,1,NA,Cooperative Society,West,43
+ Kondhwa,2,Flat,1000,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,75
+  Pimpri Pimpri Chinchwad,3,Flat,NA,Ready to Move,Resale,Unfurnished,0,2,1,Freehold,East,77
+  Sus,2,Flat,783,Ready to Move,Resale,SemiFurnished,0,2,1,Freehold,East,65
+  Wakad,2,Flat,670,Ready to Move,Resale,SemiFurnished,0,2,2,Cooperative Society,East,63.5
+  NIBM Road,3,Flat,1318,Ready to Move,Resale,Unfurnished,0,3,3,Cooperative Society,East,112
+  Kharadi,2,Flat,NA,NA,Resale,Unfurnished,0,2,NA,Freehold,East,66
+  Mundhwa,1,Flat,515,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,North  East,44
+Hadapsar,2,House,990,Ready to Move,Resale,Furnished,1,2,1,Cooperative Society,East,62
+ Pent  Sopan Baug,5,Flat,7200,Ready to Move,Resale,Furnished,9,5,3,Cooperative Society,North,1250
+  Ambe Gaon,1,Flat,732,Ready to Move,Resale,Unfurnished,1,1,2,Freehold,East,48.7
+At Post Bholavade Jilha Pune Tal Bhor,2,House,NA,Ready to Move,Resale,Unfurnished,0,2,NA,NA,NA,32
+ Bonheur,2,Flat,700,Possession by Dec 23,Resale,SemiFurnished,1,2,NA,Cooperative Society,East,56.1
+  Bopodi Old Mumbai PuneHighway,1,Flat,55,Ready to Move,Resale,SemiFurnished,0,1,1,Freehold,East,55
+  Kranti NagarThergaon Pimpri Chinchwad,1,Flat,600,Ready to Move,Resale,SemiFurnished,1,1,1,Freehold,East,42
+ Punawale Pimpri Chinchwad,1,Flat,500,Ready to Move,Resale,Unfurnished,5,1,2,Freehold,West,39
+  Bijlinagar Pimpri Chinchwad,5,Flat,1500,Ready to Move,Resale,Furnished,0,3,NA,NA,NA,200
+ Pimple Saudagar Pimpri Chinchwad,2,Flat,776,Ready to Move,Resale,Furnished,1,2,2,Freehold,West,79
+  Hinjewadi,3,Flat,NA,Ready to Move,Resale,Furnished,2,3,NA,Freehold,East,120
+ Castles,2,Flat,1015,Ready to Move,Resale,Furnished,0,2,NA,Freehold,South West,77
+  EON Free Zone Kharadi,3,Flat,1507,Ready to Move,Resale,Unfurnished,2,3,2,Freehold,East,166
+  NIBM Road,3,Flat,1120,Ready to Move,Resale,SemiFurnished,1,3,2,Cooperative Society,East,128
+ Kalyani Nagar,3,Flat,1500,Ready to Move,Resale,Furnished,1,3,2,Cooperative Society,East,165
+  Handewadi Road,1,Flat,500,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,28.5
+  Baner,3,Flat,1750,Ready to Move,Resale,Furnished,2,3,3,Freehold,East,185
+  Viman Nagar,2,Flat,960,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,South,79
+  Sinhagad Road,1,Flat,463,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,North,39
+  Viman Nagar,2,Flat,1350,Ready to Move,Resale,SemiFurnished,0,2,2,Cooperative Society,North,135
+  Magarpatta City,3,Flat,1750,Ready to Move,Resale,Unfurnished,2,3,2,Freehold,East,195
+ Warje,2,Flat,1305,Ready to Move,Resale,SemiFurnished,0,2,3,Freehold,East,107
+  Hinjewadi Phase 3,2,Flat,850,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,East,61
+  Narhe,1,Flat,450,Ready to Move,Resale,SemiFurnished,1,1,1,Cooperative Society,West,32
+ Ambegaon Budruk,1,Flat,450,Ready to Move,Resale,Unfurnished,1,1,1,Freehold,East,20
+Adishakti Coop Housing Society No. 2,2,House,1345,Ready to Move,Resale,SemiFurnished,2,3,1,Cooperative Society,West,160
+ Awhalwadi,5,Flat,1700,Ready to Move,Resale,Unfurnished,1,10,NA,Freehold,East,90
+  Fursungi,5,House,800,Ready to Move,Resale,Unfurnished,1,4,2,Freehold,West,110
+ Shivaji Nagar,1,Flat,430,Ready to Move,Resale,SemiFurnished,1,1,NA,Freehold,South,85
+   Kharadi,0,House,1250,Ready to Move,Resale,SemiFurnished,3,10,10,Freehold,East,175
+  Moshi,2,Flat,980,Ready to Move,Resale,SemiFurnished,0,2,2,Cooperative Society,East,63
+ Wanwadi,1,Flat,525,Ready to Move,Resale,SemiFurnished,1,1,2,Cooperative Society,South,34
+  Kharadi,2,Flat,678,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,North  East,55
+ Pimpri Pimpri Chinchwad,2,Flat,950,Ready to Move,Resale,Furnished,2,2,2,Freehold,East,70
+  Handewadi,2,Flat,679,Ready to Move,Resale,Furnished,1,2,3,Freehold,NA,51
+ Wanawari,3,Flat,NA,Ready to Move,Resale,SemiFurnished,1,3,2,Freehold,East,135
+  Wakad,2,Flat,853,Ready to Move,New Property,SemiFurnished,0,2,2,Cooperative Society,East,75
+ BanerBalewadi Road,3,Flat,1147,Ready to Move,Resale,Furnished,1,3,3,Freehold,West,130
+  NIBM Road,3,Flat,1250,Ready to Move,Resale,Unfurnished,0,3,2,Cooperative Society,North,130
+  Chinchwad Pimpri Chinchwad,2,Flat,736,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,65
+  Kothrud,1,Flat,500,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,North,44
+  Wakad,3,Flat,1027,Ready to Move,Resale,SemiFurnished,1,2,3,Cooperative Society,East,96
+  Koregaon Park,2,Flat,700,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,53
+  Bhukum,2,Flat,565,Ready to Move,Resale,SemiFurnished,251,2,1,Freehold,North  East,36
+ Bavdhan,1,Flat,492,Possession by Nov 23,New Property,SemiFurnished,1,1,1,Freehold,North  East,37.5
+  Chinchwad Pimpri Chinchwad,3,Flat,1380,Ready to Move,Resale,SemiFurnished,0,3,3,Freehold,East,97
+  NIBM Road,2,Flat,930,Ready to Move,Resale,SemiFurnished,1,2,1,Cooperative Society,East,92
+  NIBM Road,3,Flat,1198,Ready to Move,Resale,SemiFurnished,1,3,1,Cooperative Society,North,135
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,74
+  Baner road,3,Flat,1325,Ready to Move,Resale,Furnished,1,3,2,Freehold,East,115
+  EON Free Zone Kharadi,2,Flat,775,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,North  East,75
+  Kondhwa,1,Flat,390,Ready to Move,New Property,Unfurnished,1,1,1,Freehold,NA,28.6
+ Dhayari,1,Flat,451,Ready to Move,Resale,SemiFurnished,0,2,1,Cooperative Society,North,25
+  Magarpatta City,3,Flat,NA,Ready to Move,Resale,Furnished,1,3,1,Cooperative Society,NA,155
+  Hinjewadi,2,Flat,910,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,60
+  Magarpatta City,3,Flat,NA,Ready to Move,Resale,SemiFurnished,2,3,2,Freehold,South West,215
+  Koregaon Park,2,Flat,840,Ready to Move,Resale,Furnished,1,2,1,Freehold,East,115
+  Wakad,2,Flat,627,Ready to Move,Resale,Furnished,1,2,2,Freehold,East,65
+  Kharadi,2,Flat,1065,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,93
+  NIBM Annexe,3,Flat,1200,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,75
+  Kharadi,2,Flat,840,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,102
+  Rahatni Pimpri Chinchwad,2,Flat,900,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,85
+  Hinjewadi,2,Flat,628,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,39.5
+ RiveraApartment Tadiwala Road,2,Flat,700,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,South,60
+  Alandi Kelgaon,1,Flat,450,Ready to Move,Resale,Unfurnished,0,1,NA,Freehold,East,36
+ Sinhagad Road,3,Flat,1150,Ready to Move,Resale,Furnished,1,3,2,Cooperative Society,East,100
+ Marunji Hinjawadi,3,Flat,1400,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,73
+  Erandwane,6,Flat,3250,Ready to Move,New Property,Furnished,4,6,5,Freehold,East,825
+  Wagholi,3,House,1800,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,East,95
+  Pimple Saudagar Pimpri Chinchwad,3,Flat,1200,Ready to Move,Resale,Unfurnished,1,3,2,Cooperative Society,East,100
+  EON Free Zone Kharadi,2,Flat,1050,Ready to Move,Resale,SemiFurnished,1,2,2,Cooperative Society,East,110
+  Keshav Nagar Mundhwa,3,Flat,1008,Possession by Dec 21,New Property,SemiFurnished,1,3,3,Freehold,East,78
+  Kalubai Nagar Wagholi,2,Flat,705,Possession by Mar 21,New Property,Unfurnished,1,2,2,Freehold,East,59
+ Amanora Park Town,2,Flat,760,Possession by Dec 21,New Property,SemiFurnished,1,2,3,Freehold,East,55.5
+  Wakad,2,Flat,710,Possession by Jul 21,New Property,Unfurnished,0,2,1,Cooperative Society,East,55
+ Bhugaon Bavdhan,1,Flat,468,Possession by Jul 21,New Property,Unfurnished,1,1,1,Freehold,East,20
+  Hinjewadi Phase 3,2,Flat,698,Possession by Jul 22,New Property,Unfurnished,1,2,NA,NA,NA,45
+  Baner,2,Flat,732,Possession by Dec 24,New Property,Unfurnished,1,2,NA,NA,NA,82.8
+  Charholi Budruk,2,Flat,814,Possession by Dec 23,New Property,Unfurnished,0,2,NA,NA,NA,52.3
+  Ravet Pimpri Chinchwad,2,Flat,NA,Possession by Apr 22,New Property,Unfurnished,0,2,NA,NA,NA,62.5
+  Baner,2,Flat,754,Possession by Dec 22,New Property,Unfurnished,1,2,NA,NA,NA,73.9
+  Ravet Pimpri Chinchwad,2,Flat,609,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,46.1
+  Kharadi,2,Flat,840,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,72
+  Ravet Pimpri Chinchwad,2,Flat,715,Possession by Dec 26,New Property,Unfurnished,1,2,NA,NA,NA,53.6
+  Wakad,2,Flat,680,Possession by Dec 22,New Property,Unfurnished,1,2,NA,NA,NA,54.5
+  Hinjewadi,3,Flat,850,Possession by Mar 24,New Property,Unfurnished,1,2,NA,NA,NA,69.8
+  Viman Nagar,2,Flat,1000,Ready to Move,Resale,SemiFurnished,0,2,2,Cooperative Society,East,100
+  Mayur Colony Kothrud,2,Flat,930,Ready to Move,Resale,SemiFurnished,1,2,1,Freehold,East,140
+  Balewadi,2,Flat,720,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,East,80
+  Phursungi,2,Flat,741,Possession by Mar 21,New Property,Unfurnished,1,2,2,Freehold,East,40
+  Tathawade Dattwadi,2,Flat,658,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,48
+ Charholi,2,Flat,760,Possession by Jul 22,New Property,Unfurnished,10,2,2,Freehold,North,40
+  Kharadi,4,Flat,3200,Possession by Dec 21,New Property,Unfurnished,3,5,2,Freehold,East,460
+  Koregaon Park,3,Flat,1950,Ready to Move,New Property,Unfurnished,0,3,3,Cooperative Society,South,220
+ Kalyani Nagar,1,Flat,450,Ready to Move,Resale,Furnished,0,1,NA,Cooperative Society,East,55
+  Hadapsar,3,Flat,1100,Ready to Move,Resale,Unfurnished,1,3,1,Freehold,South,115
+  Chikhali,2,Flat,971,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,43.1
+  Talegaon Dabhade,1,Flat,NA,Ready to Move,New Property,Unfurnished,1,1,NA,NA,NA,22.6
+  Ravet Pimpri Chinchwad,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,45
+  Dhanori,3,Flat,1118,Possession by Dec 23,New Property,Unfurnished,0,3,3,NA,NA,70.5
+  Hinjewadi,3,Flat,1383,Ready to Move,Resale,Unfurnished,0,3,3,Freehold,North  East,116
+  Wagholi,2,Flat,890,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,52
+  Dhanori,2,Flat,741,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,44
+  Wagholi,3,Flat,2200,Possession by Dec 21,New Property,SemiFurnished,2,3,3,Freehold,East,206
+  Hinjewadi,3,Flat,1180,Possession by Dec 22,New Property,Unfurnished,1,3,2,Freehold,East,99
+  Balewadi,2,Flat,789,Possession by Dec 22,New Property,Unfurnished,0,2,2,Freehold,East,71
+  Dhayari,2,Flat,725,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,46.9
+  Shankar Kalat Nagar,2,Flat,790,Possession by Jun 22,New Property,Unfurnished,1,2,1,Freehold,East,79.5
+  Hinjewadi Phase 1,3,Flat,973,Possession by Dec 23,New Property,Unfurnished,1,3,1,Freehold,East,90
+  NIBM Road,3,Flat,1230,Possession by Dec 23,New Property,Unfurnished,2,3,2,Freehold,East,110
+  Balewadi,3,Flat,890,Possession by Oct 21,New Property,Unfurnished,1,2,2,Freehold,East,86
+  Undri,2,Flat,750,Possession by Aug 21,New Property,Unfurnished,0,2,2,Cooperative Society,East,38
+  Balewadi,2,Flat,1499,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,75
+  Punawale Pimpri Chinchwad,2,Flat,703,Possession by Mar 21,New Property,SemiFurnished,1,2,3,Freehold,East,46
+  Wagholi,2,Flat,550,Possession by Jun 22,New Property,Unfurnished,1,2,2,Freehold,East,32
+  Kharadi,2,Flat,NA,Possession by May 21,New Property,Unfurnished,1,2,2,Freehold,East,97
+  Kalyani Nagar,3,Flat,1150,Possession by Mar 23,New Property,Unfurnished,0,4,1,Cooperative Society,East,200
+  Sainath NagarVadgaonsheri Vadgaonsheri,2,Flat,623,Possession by May 21,New Property,Unfurnished,1,2,1,Freehold,East,53
+  Hinjewadi Phase 3,2,Flat,698,Possession by Feb 24,New Property,Unfurnished,1,2,NA,NA,NA,46.7
+  Hadapsar,1,Flat,NA,Possession by Dec 23,New Property,Unfurnished,1,1,NA,NA,NA,37.5
+  Wagholi,4,Flat,2224,Ready to Move,New Property,Unfurnished,1,4,NA,NA,NA,290
+  Ghorpadi,3,Flat,NA,Ready to Move,Resale,Unfurnished,2,4,1,Freehold,East,340
+  Dhanori,2,Flat,702,Possession by Dec 21,New Property,Unfurnished,0,2,2,Freehold,East,54
+ Balewadi Phata Baner,3,Flat,1090,Possession by Apr 21,New Property,SemiFurnished,2,3,3,Freehold,East,119
+  Kharadi,3,Flat,141,Possession by Dec 21,New Property,Unfurnished,0,3,NA,NA,NA,136
+  Punawale Pimpri Chinchwad,3,Flat,1160,Possession by Jun 21,New Property,Unfurnished,1,3,2,Freehold,East,90.5
+  Wakad,3,Flat,1040,Possession by Dec 21,New Property,Unfurnished,1,3,2,Freehold,East,94.5
+  Wakad,2,Flat,710,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,55.4
+  Wakad,2,Flat,736,Possession by Dec 21,New Property,Unfurnished,1,2,1,Cooperative Society,East,75
+  Dhanori,2,Flat,717,Possession by Dec 22,New Property,SemiFurnished,0,2,2,Freehold,East,50.3
+  Dhanori,3,Flat,1000,Possession by Dec 21,New Property,Unfurnished,1,3,2,Freehold,East,61
+  NIBM Annexe,2,Flat,824,Possession by Mar 23,New Property,Unfurnished,1,2,1,Freehold,North  West,75
+ Hinjewadi,2,Flat,810,Possession by Dec 21,New Property,Unfurnished,1,2,1,Cooperative Society,East,59.5
+  Baner,2,Flat,771,Possession by Jun 22,New Property,Unfurnished,1,2,NA,Freehold,East,75.4
+  Hadapsar,1,Flat,460,Possession by Apr 22,New Property,SemiFurnished,1,1,1,Freehold,East,40
+  Balewadi,3,Flat,1163,Possession by Jun 22,New Property,SemiFurnished,1,3,3,Freehold,East,114
+  Sai Nagar Dehu Road,2,Flat,587,Possession by Mar 23,New Property,Unfurnished,1,2,3,Freehold,East,45.2
+  Dhanori,2,Flat,750,Possession by Jun 23,New Property,SemiFurnished,1,2,2,Cooperative Society,East,45
+  Koregaon Park,3,Flat,1165,Possession by Jun 23,New Property,Unfurnished,1,2,4,Freehold,East,185
+  Hinjewadi,2,Flat,750,Possession by Dec 22,New Property,SemiFurnished,1,2,1,Freehold,East,62
+  Laxmi Chowk Hinjewadi,1,Flat,485,Possession by Mar 22,New Property,Unfurnished,0,2,1,Freehold,West,37.5
+  Balewadi,2,Flat,849,Possession by Mar 22,New Property,Unfurnished,1,2,2,Freehold,West,74.6
+  Kharadi,3,Flat,1450,Possession by May 22,Resale,SemiFurnished,2,3,1,Freehold,East,133
+  Wagholi,1,Flat,457,Possession by Dec 21,New Property,Unfurnished,1,1,1,Freehold,East,29.1
+  Kaspate Vasti Pimpri Chinchwad,1,Flat,459,Possession by Dec 21,New Property,Unfurnished,90,1,1,Freehold,East,38
+ Wakad,2,Flat,740,Possession by Jul 23,New Property,Unfurnished,1,2,2,Freehold,East,56.9
+ Hinjewadi Phase 2,2,Flat,640,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,East,46
+  Tathawade Dattwadi,2,Flat,789,Possession by Dec 22,New Property,Unfurnished,0,2,2,Freehold,East,53
+ Dhanori,3,Flat,NA,Possession by Dec 22,New Property,Unfurnished,1,3,2,Freehold,East,77.5
+  Koregaon Park,3,Flat,1919,Possession by Sep 23,New Property,Unfurnished,2,3,4,Freehold,East,281
+  NIBM Annexe,3,Flat,1240,Possession by Aug 23,New Property,Unfurnished,1,3,3,Freehold,West,115
+  Ambegaon Budruk,2,Flat,642,Possession by Aug 22,New Property,SemiFurnished,1,2,1,Freehold,East,55
+  Balewadi,2,Flat,891,Possession by Sep 23,New Property,Unfurnished,0,2,NA,NA,NA,91
+  Kharadi,1,Flat,450,Ready to Move,New Property,Unfurnished,1,1,NA,NA,NA,32.5
+  Ravet Pimpri Chinchwad,2,Flat,672,Possession by Apr 21,New Property,Unfurnished,1,2,NA,NA,NA,60
+  Wakad,3,Flat,782,Possession by Dec 21,New Property,Unfurnished,0,3,NA,NA,NA,76.5
+ TwTower Wakad,1,Flat,520,Ready to Move,New Property,Unfurnished,1,1,NA,NA,NA,44.7
+  Wakad,2,Flat,772,Ready to Move,New Property,Unfurnished,1,2,NA,NA,NA,76
+  Wagholi,2,Flat,748,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,59
+  Lohegaon,3,Flat,961,Possession by Jul 21,New Property,Unfurnished,1,2,NA,NA,NA,58
+  Balewadi,3,Flat,1302,Ready to Move,Resale,SemiFurnished,1,3,2,Cooperative Society,East,105
+ Manjari Khurd,2,Flat,568,Possession by Mar 25,New Property,Unfurnished,1,2,1,Freehold,North,56.5
+  Hinjewadi Phase 1,2,Flat,689,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,56
+ Marunji Hinjawadi,2,Flat,670,Possession by Dec 22,New Property,Unfurnished,0,2,2,Freehold,East,42.5
+  Hinjewadi Phase 1,1,Flat,500,Possession by Jan 22,New Property,Unfurnished,1,2,1,Freehold,East,40.7
+  Baner,2,Flat,NA,Possession by Jun 22,New Property,Unfurnished,0,2,1,NA,NA,83
+  Wakad,2,Flat,800,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,65.8
+  Amanora Park Town,4,Flat,3920,Ready to Move,Resale,Furnished,3,4,2,Freehold,West,279
+  Kharadi,3,Flat,1650,Possession by Sep 23,New Property,SemiFurnished,0,3,2,Freehold,East,135
+  Wakad,2,Flat,725,Possession by Jan 21,New Property,Unfurnished,0,2,2,Freehold,East,59
+  Manjri Manjri Budruk,2,Flat,691,Possession by Mar 24,New Property,Unfurnished,1,1,NA,NA,NA,56
+  Wakad,2,Flat,756,NA,New Property,Unfurnished,2,2,2,Freehold,East,62
+  Bavdhan,2,Flat,820,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,West,74.7
+  Balewadi,2,Flat,730,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,East,69
+ Dhayari,1,Flat,444,Possession by Dec 23,New Property,Unfurnished,0,1,2,Cooperative Society,East,28.5
+  Tathawade Dattwadi,2,Flat,730,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,48
+  Ravet Pimpri Chinchwad,2,Flat,739,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,52
+  Kharadi,1,Flat,343,Possession by Mar 22,New Property,Unfurnished,1,1,1,Freehold,East,42
+  Mamurdi Dehu Road,3,Flat,678,Possession by Mar 23,New Property,Unfurnished,1,2,1,Freehold,East,63
+  Wakad,2,Flat,741,Possession by Jun 21,New Property,Unfurnished,1,2,2,Freehold,East,59
+ Kharadi,1,Flat,450,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,40
+ Lohegaon,4,House,1200,Possession by Sep 21,New Property,Unfurnished,1,4,3,Freehold,East,65
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,807,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,88
+  New Kalyani Nagar,3,Flat,1230,Possession by Jan 22,New Property,Unfurnished,0,3,3,Freehold,East,110
+  Hinjewadi,2,Flat,690,Possession by Dec 22,New Property,SemiFurnished,1,2,1,Freehold,East,51
+  Balewadi,3,Flat,1390,Possession by Dec 23,New Property,Unfurnished,0,3,2,Cooperative Society,East,131
+  Baner,3,Flat,920,Ready to Move,New Property,Unfurnished,0,3,NA,NA,NA,90
+  Balewadi,3,Flat,1112,Possession by Dec 22,New Property,Unfurnished,1,3,2,Freehold,East,115
+  Undri,3,Flat,1100,Possession by Aug 21,New Property,Unfurnished,0,3,2,Freehold,East,65
+  Wakad,2,Flat,707,Possession by Jun 22,New Property,Unfurnished,1,2,2,Freehold,East,65
+  Wagholi,1,Flat,454,Possession by Jun 21,New Property,Unfurnished,1,1,2,Freehold,East,27.2
+  Kothrud,3,Flat,2191,Possession by Dec 23,New Property,Unfurnished,2,3,2,Freehold,East,260
+  Manjri Manjri Budruk,2,Flat,691,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,50.9
+  Dhanori,3,Flat,978,Possession by May 22,New Property,Unfurnished,0,3,3,NA,NA,65
+  Balewadi,4,Flat,2003,Possession by Dec 22,New Property,Unfurnished,1,4,1,Freehold,East,215
+  Chinchwad Pimpri Chinchwad,2,Flat,750,Possession by Dec 24,New Property,Unfurnished,1,2,2,Freehold,East,66
+  Kharadi,3,Flat,1092,Possession by Dec 23,New Property,Unfurnished,1,3,3,Freehold,NA,68
+  Chinchwad Pimpri Chinchwad,3,Flat,1171,Possession by Dec 24,New Property,Unfurnished,1,3,2,Freehold,East,128
+  Vishal Nagar Pimpri Chinchwad,3,Flat,1185,Possession by Dec 21,New Property,Unfurnished,1,3,3,Freehold,East,120
+  Charholi Budruk,2,Flat,770,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,49
+  Mhada ColonyViman Nagar Viman Nagar,3,Flat,1200,Ready to Move,Resale,Furnished,2,3,2,Freehold,East,220
+  Tathawade Dattwadi,3,Flat,862,Possession by Dec 22,New Property,Unfurnished,1,3,NA,NA,NA,75
+ Balewadi,2,Flat,708,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,68.5
+  Keshav Nagar Mundhwa,3,Flat,848,Possession by Dec 22,New Property,Unfurnished,1,3,3,Cooperative Society,East,69.5
+ Undri,2,Flat,750,Possession by Dec 24,New Property,Unfurnished,0,2,2,Freehold,East,55
+  Tathawade Dattwadi,2,Flat,821,Possession by Apr 21,New Property,Unfurnished,0,2,2,Freehold,East,70
+  Mahalunge,2,Flat,641,Possession by Feb 23,New Property,Unfurnished,1,2,2,Freehold,East,55
+  Wagholi,2,Flat,611,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,39
+  Laxmi NagarBalewadi,3,Flat,1326,Possession by Dec 22,New Property,Unfurnished,2,3,2,Freehold,East,129
+  Mamurdi Dehu Road,2,Flat,825,Possession by Dec 22,New Property,SemiFurnished,1,2,2,Freehold,East,60
+  Ram NagarBaner Baner,2,Flat,839,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,105
+  Kharadi,3,Flat,1090,Possession by Jul 21,New Property,Unfurnished,0,3,1,Freehold,East,120
+  Dhanori,3,Flat,1020,Possession by May 23,New Property,Unfurnished,1,3,2,Freehold,East,65
+  Baner,3,Flat,1728,Possession by Dec 21,New Property,Unfurnished,2,4,3,Freehold,East,265
+  Baner,2,Flat,732,Possession by Jul 23,New Property,Unfurnished,0,2,1,NA,North,76
+  Wakad,2,Flat,746,Possession by Mar 22,New Property,Unfurnished,1,2,2,Freehold,East,56
+  Wagholi,3,Flat,2100,Possession by Dec 22,New Property,Unfurnished,2,3,3,Freehold,East,248
+ Ravet Pimpri Chinchwad,2,Flat,730,Possession by Oct 21,New Property,Unfurnished,1,2,2,Cooperative Society,East,47.8
+  Mamurdi Dehu Road,2,Flat,629,Possession by Apr 22,New Property,Unfurnished,1,2,1,Cooperative Society,East,56.7
+  Baner,3,Flat,1173,Possession by Mar 21,New Property,Unfurnished,1,3,3,Freehold,East,170
+  Punawale Pimpri Chinchwad,2,Flat,710,Possession by Dec 21,New Property,Unfurnished,1,2,2,Leasehold,East,43.9
+  Hadapsar,1,Flat,430,Possession by Dec 22,New Property,Unfurnished,1,1,1,Freehold,East,35.6
+ Bhugaon Bavdhan,2,Flat,704,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,50
+  Wagholi,1,Flat,408,Possession by Dec 22,New Property,Unfurnished,1,1,1,NA,East,28
+ Hinjewadi,2,Flat,715,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,64
+  Hadapsar,2,Flat,743,Possession by Dec 23,New Property,Unfurnished,1,2,3,Freehold,East,63
+ Mahalunge,1,Flat,468,Possession by Dec 23,New Property,Unfurnished,1,1,1,Freehold,East,42
+  Kothrud,3,Flat,1100,Possession by Dec 22,New Property,Unfurnished,1,3,2,Freehold,East,165
+  Punawale Pimpri Chinchwad,3,Flat,1100,Possession by Dec 22,New Property,SemiFurnished,1,3,2,Freehold,East,75
+ Model Colony Shivaji Nagar,4,Flat,1934,Possession by Mar 21,New Property,Unfurnished,2,4,2,Freehold,East,419
+  Bhosale Nagar,3,Flat,2043,Possession by Mar 21,New Property,Unfurnished,2,3,2,Freehold,East,420
+  Manjri Manjri Budruk,2,Flat,744,Possession by Nov 22,New Property,Unfurnished,0,2,1,Freehold,East,51
+ Wakad,2,Flat,782,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,66
+  Keshav Nagar Mundhwa,2,Flat,NA,Possession by Mar 22,New Property,Unfurnished,1,2,1,Freehold,East,55
+ Kharadi,2,Flat,808,Possession by Dec 24,New Property,Unfurnished,1,2,3,Freehold,East,72
+  Keshav Nagar Mundhwa,2,Flat,828,Possession by Dec 21,New Property,SemiFurnished,1,2,1,Freehold,East,67
+  Wagholi,4,Flat,4500,Possession by Aug 21,New Property,Unfurnished,2,5,3,Freehold,East,525
+  Anand NagarChinchwad Pimpri Chinchwad,2,Flat,650,Possession by Mar 26,New Property,Unfurnished,1,2,2,Cooperative Society,East,68
+  Undri,3,Flat,1200,Possession by Mar 21,New Property,Unfurnished,1,3,1,Freehold,East,87
+  Moshi,2,Flat,741,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,50.5
+   NIBM Annexe,4,Flat,2800,Possession by Dec 22,New Property,Unfurnished,2,4,3,Cooperative Society,East,285
+ Wagholi Nagar Road,3,Flat,1281,Ready to Move,Resale,Furnished,1,3,2,Freehold,East,75
+  Baner,2,Flat,780,Possession by Mar 22,New Property,Unfurnished,1,2,1,Freehold,East,81
+ Hinjewadi Phase 2,2,Flat,610,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,NA,42.7
+  Wakad,2,Flat,865,Possession by Jun 23,New Property,Unfurnished,1,2,2,Freehold,East,66
+  Baner,3,Flat,1017,Possession by Jul 23,New Property,Unfurnished,0,3,2,Freehold,East,108
+  Somatne Phata,1,Flat,345,Possession by Dec 23,New Property,Unfurnished,1,1,1,Freehold,East,19
+  Dhanori,3,Flat,1550,Possession by Sep 23,New Property,Unfurnished,1,3,3,Freehold,East,70
+   Punawale Pimpri Chinchwad,2,Flat,644,Possession by Jun 21,New Property,SemiFurnished,1,2,2,Freehold,East,43
+ Keshav Nagar Mundhwa,2,Flat,755,Possession by Nov 24,New Property,Unfurnished,1,2,2,Freehold,East,57
+  Mamurdi Dehu Road,3,Flat,850,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,59
+ Baner,4,House,2037,Possession by Apr 22,New Property,Unfurnished,0,4,3,Freehold,West,235
+  Mahalunge,2,Flat,665,Possession by Dec 22,New Property,SemiFurnished,1,2,1,Freehold,East,57
+  Talegaon Dabhade,1,Flat,NA,NA,Resale,Unfurnished,1,1,1,NA,East,27
+  Bavdhan Khurd Bavdhan,3,Flat,1200,Possession by Jul 21,New Property,Unfurnished,1,3,3,Cooperative Society,East,95
+  Baner,2,Flat,800,Possession by Sep 22,New Property,Unfurnished,1,2,1,Freehold,East,76
+  Kalyani Nagar,4,House,2100,Ready to Move,Resale,Unfurnished,1,4,1,Freehold,East,490
+  Ravet Pimpri Chinchwad,2,Flat,810,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,60
+  Dhanori,3,Flat,665,Possession by Dec 21,New Property,Unfurnished,0,2,3,Cooperative Society,East,46
+  Kiwale Dehu Road,3,Flat,1169,Possession by Jun 23,New Property,Unfurnished,1,3,NA,Freehold,East,104
+  Bavdhan,2,Flat,785,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,86
+  Balewadi,3,House,2200,Ready to Move,Resale,SemiFurnished,0,3,3,Cooperative Society,East,195
+  Tathawade Dattwadi,3,Flat,1128,Possession by Nov 22,New Property,SemiFurnished,1,3,1,Freehold,East,102
+  EON Free Zone Kharadi,4,Flat,3050,Possession by Dec 21,New Property,SemiFurnished,2,6,2,Freehold,East,367
+  Kharadi,2,Flat,1085,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,90.5
+  Hinjewadi,2,Flat,NA,Possession by Aug 21,New Property,Unfurnished,1,2,1,Freehold,East,40
+  Tathawade Dattwadi,2,Flat,742,Possession by Jul 22,New Property,Unfurnished,1,2,2,Freehold,East,57
+ Bavdhan,3,Flat,NA,Possession by Dec 21,New Property,SemiFurnished,1,3,1,Freehold,East,115
+ Dange Chowk,2,Flat,725,Possession by Feb 21,New Property,Unfurnished,2,2,2,Freehold,East,60
+  Baner,2,Flat,751,Possession by Dec 21,New Property,SemiFurnished,1,2,2,Freehold,East,68
+  Balewadi,2,Flat,823,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,78
+  Mamurdi Dehu Road,3,Flat,850,Possession by Dec 21,New Property,Unfurnished,1,3,2,Freehold,East,63
+  Kharadi,3,Flat,1667,Possession by Dec 22,New Property,Unfurnished,0,3,1,Freehold,East,179
+  Wakad,2,Flat,867,Possession by Mar 21,New Property,Unfurnished,1,2,1,Freehold,East,108
+  Hinjewadi,2,Flat,750,Possession by Dec 24,New Property,Unfurnished,1,2,1,Freehold,East,62
+  Dange Chowk,2,Flat,640,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,West,60
+  Amanora Park Town,2,Flat,732,Possession by Sep 23,New Property,Unfurnished,1,2,2,Freehold,East,61.9
+  Punawale Pimpri Chinchwad,2,Flat,736,Possession by Dec 22,New Property,SemiFurnished,1,2,2,Cooperative Society,East,54
+  Mahalunge,1,Flat,450,Possession by Dec 21,New Property,Unfurnished,1,1,2,Freehold,East,33
+  Undri,3,Flat,1150,Possession by Oct 21,New Property,Unfurnished,1,3,1,Freehold,East,99
+  Hadapsar,2,Flat,864,Possession by Feb 22,New Property,Unfurnished,1,2,2,Freehold,East,94
+  Park Street Pimpri Chinchwad,4,Flat,1650,Possession by Dec 21,New Property,Unfurnished,2,4,3,Freehold,East,175
+  Balewadi,2,Flat,708,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,69
+  Porwal Road,3,Flat,1008,Possession by Aug 22,New Property,SemiFurnished,1,3,2,Freehold,North,72
+  Wagholi,2,Flat,588,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,33.5
+  Hinjewadi,2,Flat,700,Possession by May 22,New Property,Unfurnished,1,2,1,Freehold,East,56
+  Keshav Nagar Mundhwa,3,Flat,1250,Possession by Feb 21,New Property,Unfurnished,1,3,3,Freehold,East,90
+  Mahalunge,3,Flat,880,Possession by Dec 22,New Property,Unfurnished,1,3,2,Cooperative Society,East,76
+  EON Free Zone Kharadi,3,Flat,1075,Possession by Oct 23,New Property,SemiFurnished,2,3,2,Freehold,East,93.8
+  Baner,3,Flat,1017,Possession by Dec 24,New Property,Unfurnished,2,3,3,Freehold,East,137
+  Hadapsar,2,Flat,743,Possession by Sep 21,New Property,Unfurnished,1,2,1,Freehold,East,61.8
+  NIBM Road,3,Flat,1100,Possession by Dec 21,New Property,Unfurnished,1,3,2,Freehold,East,120
+  Moshi,2,Flat,637,Possession by May 21,New Property,Unfurnished,1,2,1,Freehold,East,37.9
+  Kharadi,2,Flat,994,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,105
+  Hadapsar,3,Flat,894,Possession by Dec 23,New Property,Unfurnished,1,3,2,Freehold,East,72.2
+  Punawale Pimpri Chinchwad,2,Flat,668,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,44.6
+  Laxmi Chowk Hinjewadi,2,Flat,680,Possession by Mar 22,New Property,Unfurnished,1,2,1,Freehold,East,44
+  Ravet Pimpri Chinchwad,2,Flat,786,Possession by Dec 22,New Property,Unfurnished,1,2,NA,Freehold,East,60
+  Wakad,2,Flat,667,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,59
+  Kharadi,3,Flat,1200,Possession by Jun 22,New Property,Unfurnished,1,3,2,Freehold,North  East,110
+  Wakad,2,Flat,773,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,70
+  Dhanori,2,Flat,621,Possession by Dec 21,New Property,Unfurnished,1,2,2,Cooperative Society,East,49.4
+  Mahalunge,2,Flat,680,Possession by Mar 22,New Property,Unfurnished,1,2,3,Freehold,East,49
+  Undri,1,Flat,454,Possession by Sep 21,New Property,Unfurnished,1,1,2,Freehold,North  East,25.3
+  Hadapsar,2,Flat,870,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,96
+  Borade Vasti Pimpri Chinchwad,2,Flat,833,Possession by Jun 21,New Property,Unfurnished,1,2,2,Freehold,East,55
+ Kothrud,2,Flat,639,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,90
+ Kiwale Dehu Road,3,Flat,719,Possession by Jan 22,New Property,Unfurnished,1,3,2,Freehold,East,60.4
+  Ravet Pimpri Chinchwad,2,Flat,750,Possession by Dec 21,New Property,Unfurnished,1,2,3,Freehold,West,49.6
+  Bavdhan,3,Flat,1571,Possession by Mar 22,New Property,Unfurnished,2,3,2,Freehold,East,129
+  Balewadi,2,Flat,810,Possession by Jun 23,New Property,Unfurnished,1,2,2,Freehold,East,83
+ Pune Solapur Highway,1,Flat,430,Possession by Dec 22,New Property,Unfurnished,1,1,1,Freehold,East,37
+  Undri,1,Flat,509,Possession by Oct 21,New Property,Unfurnished,1,1,1,Freehold,West,30
+  Bavdhan,2,Flat,733,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,69.9
+  Kharadi,2,Flat,706,Possession by Jun 22,New Property,Unfurnished,1,2,2,Freehold,East,58
+  Kharadi,2,Flat,620,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,52
+  Baner,2,Flat,780,Possession by Dec 21,New Property,SemiFurnished,1,2,2,Freehold,East,70
+  Dhanori,3,Flat,NA,Possession by Dec 22,New Property,Unfurnished,1,3,3,Freehold,East,77
+  Bavdhan,3,Flat,1325,Possession by Dec 22,New Property,Unfurnished,1,3,2,Freehold,East,118
+  Hadapsar,3,Flat,1245,Possession by Dec 21,New Property,Unfurnished,2,3,1,Freehold,East,130
+  Undri,1,Flat,500,Possession by Oct 22,New Property,Unfurnished,1,1,1,Freehold,East,28
+  Bavdhan,4,Flat,2383,Possession by Dec 21,New Property,SemiFurnished,3,4,2,Freehold,East,215
+  Ravet Pimpri Chinchwad,3,Flat,860,Possession by Apr 22,New Property,Unfurnished,1,2,2,Freehold,East,70.5
+  Punawale Pimpri Chinchwad,2,Flat,637,Possession by Apr 21,New Property,Unfurnished,1,2,1,Freehold,West,45
+ Wakad,2,Flat,575,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,50
+ Benkar Nagar Dhayari,1,Flat,415,Possession by Jul 21,New Property,Unfurnished,1,1,2,Freehold,East,25.6
+  Tathawade Dattwadi,2,Flat,695,Possession by Oct 21,New Property,Unfurnished,1,2,2,Freehold,East,47.5
+  Hinjewadi,2,Flat,740,Possession by Aug 24,New Property,Unfurnished,1,2,2,Freehold,East,60
+  Keshav Nagar Mundhwa,2,Flat,830,Possession by Sep 21,New Property,Unfurnished,1,2,2,Freehold,East,72.5
+ Kondhwa,2,Flat,829,Possession by Jun 22,New Property,Unfurnished,1,2,2,Freehold,East,68.8
+  Thite Nagar Kharadi,2,Flat,810,Possession by Dec 22,Resale,SemiFurnished,1,2,1,Freehold,East,74.1
+  Hinjewadi,2,Flat,600,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,65.5
+  Hinjewadi Phase 1,2,Flat,930,Possession by Jan 23,New Property,Unfurnished,0,2,2,Freehold,North  East,80
+  Magarpatta City,2,Flat,632,Possession by Mar 21,New Property,Unfurnished,1,2,1,Freehold,East,59
+  Tingre Nagar,3,Flat,963,Possession by Mar 21,New Property,Unfurnished,1,3,3,Cooperative Society,East,73
+  Phursungi,2,Flat,750,Possession by Jan 22,New Property,Unfurnished,0,2,2,Freehold,East,54
+  Balewadi,3,Flat,1620,Possession by Mar 23,New Property,SemiFurnished,2,3,1,Freehold,East,175
+  Undri,2,Flat,620,Possession by Oct 22,New Property,Unfurnished,0,2,2,Freehold,East,42.5
+  New Kalyani Nagar,2,Flat,725,Possession by Oct 22,New Property,SemiFurnished,0,2,2,NA,East,87
+  Hinjewadi Phase 2,2,Flat,625,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,50
+  Keshav Nagar Mundhwa,2,Flat,726,Possession by Mar 22,New Property,SemiFurnished,1,2,1,Freehold,North  East,49
+  Baner,2,Flat,732,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,75
+  Kharadi Gaon Kharadi,3,Flat,1064,Possession by Dec 22,New Property,Unfurnished,0,3,2,Freehold,East,106
+  Sasane Colony Mundhwa,3,Flat,1086,Possession by Mar 22,New Property,SemiFurnished,1,3,3,Freehold,East,89.5
+  Hinjewadi,2,Flat,748,Possession by Dec 22,New Property,Unfurnished,0,2,1,Freehold,East,66
+  Dhanori,1,Flat,471,Possession by Jun 23,New Property,Unfurnished,1,1,2,Freehold,East,29
+  Hinjewadi,2,Flat,780,Possession by Apr 21,Resale,Unfurnished,1,2,2,Freehold,East,75
+ Tathawade Dattwadi,2,Flat,782,Possession by Dec 21,New Property,SemiFurnished,1,2,3,Freehold,East,60
+  Hinjewadi,2,Flat,770,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,East,52
+  Newale vasti Chikhali,1,Flat,446,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,30.6
+  Wakad,3,Flat,1050,Possession by Dec 23,New Property,Unfurnished,2,3,2,Freehold,East,125
+  Hinjewadi,3,Flat,855,Possession by Jun 23,New Property,Unfurnished,1,3,2,Freehold,East,67
+  Dhanori,3,Flat,850,Possession by Dec 23,New Property,Unfurnished,0,2,2,Cooperative Society,East,65
+  Baner,2,Flat,750,Possession by Sep 23,New Property,SemiFurnished,1,2,3,Freehold,East,69
+  Mahalunge,2,Flat,650,Possession by Dec 23,New Property,Unfurnished,1,2,2,NA,East,55
+  Shankar Kalat Nagar,2,Flat,794,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,66.7
+  EON Free Zone Kharadi,3,Flat,1203,Possession by Oct 21,New Property,SemiFurnished,1,3,2,Freehold,East,145
+  Hinjewadi Phase 1,2,Flat,783,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,69
+  Tathawade Dattwadi,2,Flat,740,Possession by Sep 22,Resale,SemiFurnished,1,2,2,Freehold,East,55
+  Kharadi,3,Flat,945,Possession by Dec 22,New Property,SemiFurnished,2,3,2,Power Of Attorney,East,95
+  Wagholi,1,Flat,400,Possession by Mar 21,New Property,Unfurnished,2,1,2,Freehold,East,27.3
+  Laxman NagarBaner Baner,3,Flat,NA,Possession by Mar 22,New Property,SemiFurnished,1,3,2,Cooperative Society,West,239
+  Kiwale Dehu Road,1,Flat,500,Possession by Dec 22,New Property,Unfurnished,1,1,1,Freehold,East,37
+  Kharadi,2,Flat,750,Possession by Jun 22,New Property,SemiFurnished,2,2,1,Freehold,East,59
+  Hinjewadi,2,Flat,615,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,52.3
+  Baner,3,Flat,970,Possession by Dec 24,New Property,Unfurnished,1,3,2,Freehold,East,107
+  Wakad,2,Flat,645,Possession by Jun 22,New Property,Unfurnished,1,2,1,Freehold,East,62
+ Vikas NagarDehu Road Dehu Road,2,Flat,707,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,38
+  Kharadi,3,Flat,1130,Possession by Mar 21,New Property,Unfurnished,0,3,2,Freehold,East,125
+  Hinjewadi,2,Flat,770,Possession by Dec 24,New Property,Unfurnished,1,2,1,Freehold,East,58.1
+  Kalyani Nagar,3,Flat,1350,Possession by Dec 22,New Property,SemiFurnished,2,3,1,Cooperative Society,East,200
+  Pashan,2,Flat,742,Possession by Dec 21,New Property,Unfurnished,1,2,1,Freehold,East,70
+  Wagholi,1,Flat,457,Possession by Jun 22,New Property,Unfurnished,1,1,1,Freehold,East,25.5
+  Hinjewadi,2,Flat,810,Possession by Jun 22,New Property,Unfurnished,1,2,2,Freehold,East,66
+  Mahalunge,1,Flat,423,Possession by Dec 22,New Property,Unfurnished,1,1,1,Freehold,East,34
+ Punawale Pimpri Chinchwad,1,Flat,567,Possession by Jun 22,New Property,Unfurnished,1,2,2,Freehold,East,36
+  Baner,2,Flat,732,Possession by Dec 24,New Property,Unfurnished,0,2,1,Freehold,East,81
+  Keshav Nagar Mundhwa,2,Flat,725,Possession by Dec 22,New Property,SemiFurnished,1,2,2,Freehold,East,55
+ Viman Nagar,4,Flat,1424,Possession by Dec 21,New Property,Unfurnished,1,4,1,Freehold,East,155
+ Baner,2,Flat,732,Possession by Dec 24,New Property,Unfurnished,1,2,NA,Freehold,NA,71
+  Uruli Devachi,1,Flat,478,Possession by Dec 22,New Property,Unfurnished,1,1,1,Freehold,East,21.7
+  Ravet Pimpri Chinchwad,2,Flat,675,Possession by Aug 21,New Property,Unfurnished,0,2,2,Freehold,East,44
+  Hinjewadi,2,Flat,698,Possession by Feb 24,New Property,Unfurnished,1,2,1,Leasehold,East,46.6
+ Balewadi Stadium Balewadi,3,Flat,11530,Possession by Dec 22,New Property,Unfurnished,1,3,1,Freehold,East,122
+  Wagholi,2,Flat,660,Possession by Mar 21,New Property,Unfurnished,1,2,1,Freehold,East,37.3
+  Mundhwa,2,Flat,823,Possession by Mar 21,New Property,SemiFurnished,1,2,4,Freehold,East,76
+  Wagholi,2,Flat,789,Possession by Apr 22,Resale,Unfurnished,1,2,1,Freehold,East,49.5
+  Kharadi,3,Flat,1100,Possession by Oct 21,New Property,SemiFurnished,1,3,2,Freehold,East,115
+  Keshav Nagar Mundhwa,3,Flat,960,Possession by Dec 23,New Property,Unfurnished,1,3,1,Freehold,East,65
+  New Kalyani Nagar,2,Flat,750,Possession by Dec 22,New Property,SemiFurnished,1,2,3,Freehold,East,79
+ Tathawade Dattwadi,2,Flat,930,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,52
+  Wakad,2,Flat,740,Possession by Dec 22,New Property,Unfurnished,1,2,1,Freehold,East,59
+  Tathawade Dattwadi,2,Flat,656,Possession by Jun 23,New Property,Unfurnished,1,2,2,Freehold,East,47
+ Spine Road,2,Flat,707,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,East,59
+  Balewadi,2,Flat,823,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,78
+  Sector 29,2,Flat,690,Possession by Dec 21,New Property,SemiFurnished,25,2,2,NA,East,56
+ AustCounty Tathawade Dattwadi,2,Flat,752,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,70
+  Kharadi,2,Flat,730,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,East,72
+  Shirgaon,1,Flat,432,Possession by Oct 21,New Property,Unfurnished,1,2,1,Freehold,East,19
+  Sus,1,Flat,480,Possession by Jun 22,New Property,Unfurnished,1,1,1,Freehold,North  East,36
+  Tathawade Dattwadi,2,Flat,724,Possession by Sep 22,New Property,Unfurnished,1,2,3,Freehold,East,53.5
+  Keshav Nagar Mundhwa,3,Flat,960,Possession by Dec 22,New Property,Unfurnished,1,3,2,Freehold,East,71
+  Wagholi,2,Flat,696,Possession by Jul 22,New Property,Unfurnished,1,2,3,Freehold,East,34.8
+  Keshav Nagar Mundhwa,2,Flat,NA,Ready to Move,Resale,SemiFurnished,1,2,2,Freehold,East,66
+  Lohegaon,2,Flat,730,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,58
+  Undri,3,Flat,1250,Ready to Move,Resale,SemiFurnished,1,3,1,Cooperative Society,East,97
+ Sinhagad Road,2,Flat,830,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,East,66.3
+  EON Free Zone Kharadi,3,Flat,937,Possession by Dec 23,New Property,SemiFurnished,1,3,1,Freehold,East,82.1
+  Bavdhan,2,Flat,945,Ready to Move,New Property,Unfurnished,0,3,2,Freehold,East,92
+ Ghole Road,4,Flat,2100,Ready to Move,New Property,Unfurnished,3,4,3,Freehold,East,350
+  Kalyani Nagar,4,Flat,NA,Ready to Move,Resale,Unfurnished,0,5,1,Cooperative Society,East,350
+  Wakad,3,Flat,975,Ready to Move,Resale,Unfurnished,1,3,2,Freehold,East,78.5
+ Sopan Baug,3,Flat,1320,Ready to Move,New Property,Furnished,0,3,2,Cooperative Society,East,198
+  Baner,4,Flat,1700,Ready to Move,Resale,Furnished,0,4,2,Freehold,East,160
+  Gahunje,3,Flat,655,Possession by Dec 22,New Property,Unfurnished,1,2,2,Freehold,North  East,44.9
+  Wagholi,2,Flat,700,Possession by May 21,Resale,Unfurnished,1,2,1,Freehold,North,32
+  NIBM Annexe,2,Flat,850,Ready to Move,Resale,Unfurnished,1,2,2,Freehold,West,60
+ Sinhagad Road,3,Flat,900,Ready to Move,Resale,SemiFurnished,0,3,1,Cooperative Society,East,85
+  Balewadi,2,Flat,950,Ready to Move,Resale,Unfurnished,1,2,2,Cooperative Society,East,79
+  EON Free Zone Kharadi,3,Flat,1260,Ready to Move,Resale,Furnished,2,3,2,Cooperative Society,East,130
+  Wagholi,2,Flat,788,Possession by Sep 21,New Property,Unfurnished,1,2,1,Freehold,East,50
+  Magarpatta City,3,Flat,1240,Possession by Dec 22,New Property,SemiFurnished,2,3,2,Freehold,East,120
+  Magarpatta City,2,Flat,NA,Ready to Move,Resale,Unfurnished,1,2,1,Cooperative Society,North,85
+  Bavdhan,1,Flat,489,Possession by Dec 22,New Property,Unfurnished,1,1,2,Cooperative Society,East,42
+ Mumbai Pune Hwy,3,Flat,1460,Possession by Jun 22,New Property,SemiFurnished,1,4,1,Freehold,North  East,150
+  Undri,2,Flat,677,Ready to Move,New Property,Unfurnished,1,2,2,Freehold,East,36.9
+  Hinjewadi,2,Flat,561,Possession by Dec 23,New Property,Unfurnished,1,2,1,Freehold,East,63
+  EON Free Zone Kharadi,3,Flat,2400,Ready to Move,Resale,SemiFurnished,2,3,2,Freehold,North,160
+  Balewadi,2,Flat,800,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,79.7
+  Kalyani Nagar,3,Flat,1165,Possession by Apr 24,New Property,Unfurnished,1,3,1,Freehold,East,215
+  Undri,2,Flat,680,Possession by Dec 23,New Property,Unfurnished,1,2,2,Freehold,East,51
+  EON Free Zone Kharadi,2,Flat,950,Ready to Move,Resale,Unfurnished,1,2,1,Freehold,East,104
+  Sopan Baug,3,Flat,1187,Ready to Move,New Property,SemiFurnished,0,3,NA,NA,NA,170
+  Alandi Road,2,Flat,660,Possession by Jun 21,New Property,Unfurnished,0,2,NA,NA,NA,42.9
+  Moshi,2,Flat,NA,Possession by Dec 22,New Property,Unfurnished,0,2,NA,NA,NA,34.7
+  Kiwale Dehu Road,2,Flat,680,Ready to Move,New Property,Unfurnished,0,2,3,NA,NA,44
+  Hinjewadi,2,Flat,692,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,50.6
+  Hinjewadi,2,Flat,656,Possession by Jun 22,New Property,Unfurnished,0,2,NA,NA,NA,59.3
+  Handewadi,2,Flat,71,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,50
+  Undri,2,Flat,784,Possession by Dec 22,New Property,Unfurnished,1,2,NA,NA,NA,64
+  Hadapsar,2,Flat,794,Possession by Dec 21,New Property,Unfurnished,0,2,NA,NA,NA,48.8
+  NIBM Annexe,2,Flat,NA,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,66.5
+  Dhanori Lohegaon Road,2,Flat,NA,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,62
+  Dhanori,3,Flat,877,Possession by Dec 22,New Property,SemiFurnished,1,2,2,Freehold,East,62.8
+  Hinjewadi Phase 3,2,Flat,885,Possession by Jul 22,New Property,Unfurnished,0,2,NA,NA,NA,69.8
+   NIBM Road,3,Flat,1032,Possession by Dec 22,New Property,Unfurnished,0,3,NA,NA,NA,109
+  Hadapsar,2,Flat,NA,Possession by Dec 23,New Property,Unfurnished,0,2,NA,NA,NA,58.5
+  Wagholi,2,Flat,656,Possession by Mar 21,New Property,Unfurnished,1,2,2,Freehold,East,38.8
+  Hadapsar,3,Flat,NA,Possession by Jul 23,New Property,Unfurnished,1,3,NA,NA,NA,95
+  Yashwant NagarKharadi,2,Flat,730,Possession by Mar 23,New Property,Unfurnished,1,2,2,Freehold,East,61
+  Kharadi,2,Flat,750,Possession by Dec 21,New Property,Unfurnished,1,2,2,Freehold,North,72
+  Manjri Manjri Budruk,2,Flat,691,Possession by Mar 24,New Property,Unfurnished,1,2,NA,NA,NA,50
+  Hadapsar,2,Flat,550,Possession by Mar 22,New Property,Unfurnished,0,2,NA,NA,NA,38.8
+  Mamurdi Dehu Road,2,Flat,824,Possession by Sep 23,New Property,Unfurnished,1,2,NA,NA,NA,67
+  Hinjewadi,1,Flat,440,Ready to Move,Resale,Furnished,1,1,1,Freehold,East,39
+  Keshav Nagar Mundhwa,3,Flat,975,Possession by Oct 21,New Property,SemiFurnished,1,3,3,Freehold,East,109
+  Mahalunge,1,Flat,468,Possession by Jun 23,New Property,Unfurnished,1,1,NA,NA,NA,43
+  Erandwane,5,Flat,NA,Ready to Move,Resale,Unfurnished,1,NA,NA,Freehold,NA,316
+  Sinhagad Road,1,Flat,NA,NA,Resale,NA,1,2,1,NA,NA,34.6
+Undri,3,House,NA,Ready to Move,Resale,Unfurnished,2,2,2,Freehold,NA,180
+ Kondhwa Budruk,0,Flat,NA,NA,Resale,NA,0,NA,NA,Freehold,NA,61.9
+ Wakad,2,Flat,710,Ready to Move,New Property,Unfurnished,0,2,2,NA,East,67
+  Talegaon Dabhade,2,Flat,630,Possession by Dec 22,New Property,Unfurnished,1,1,NA,NA,NA,34.9
+  Mangalwar Peth Kasba Peth,3,Flat,1370,Possession by Jun 23,New Property,Unfurnished,1,3,NA,NA,NA,252
+  Talegaon Dabhade,1,Flat,423,Possession by Dec 22,New Property,Unfurnished,1,1,NA,NA,NA,23.5
+  Tathawade Dattwadi,2,Flat,NA,Possession by Jun 23,New Property,Unfurnished,1,2,NA,NA,NA,68
+  Chikhali,2,Flat,624,Possession by Aug 21,New Property,Unfurnished,0,2,NA,NA,NA,38.2
+  Viman Nagar,1,Flat,504,Possession by Jun 23,New Property,Unfurnished,1,1,NA,NA,NA,61.5
+  Ravet Pimpri Chinchwad,3,Flat,785,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,72.4
+  Charholi Budruk,2,Flat,621,Possession by Sep 23,New Property,SemiFurnished,0,2,NA,NA,NA,48
+  Lohegaon,1,Flat,450,Possession by Mar 23,New Property,Unfurnished,1,1,NA,NA,NA,37
+  Moshi,2,Flat,679,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,0
+  Ravet Pimpri Chinchwad,2,Flat,750,Possession by Nov 23,New Property,Unfurnished,0,2,NA,NA,NA,50
+  Hinjewadi,2,Flat,705,Possession by Dec 23,New Property,SemiFurnished,1,2,NA,NA,NA,52.5
+  Baner,3,Flat,NA,Possession by Dec 22,New Property,Unfurnished,1,2,NA,NA,NA,139
+   Baner,2,Flat,761,Possession by Mar 22,New Property,Unfurnished,0,2,NA,NA,NA,88.2
+  Sinhagad Road,2,Flat,1014,Possession by Dec 22,New Property,SemiFurnished,1,2,NA,NA,NA,140
+  Hinjewadi,2,Flat,691,Possession by Dec 23,New Property,Unfurnished,0,2,NA,NA,NA,61.3
+  Ravet Pimpri Chinchwad,2,Flat,830,Possession by Sep 22,New Property,Unfurnished,1,2,NA,NA,NA,63.7
+  Ambe Gaon,2,Flat,630,Possession by Dec 21,New Property,Unfurnished,1,2,NA,NA,NA,56.3
+  Phursungi,2,Flat,735,Possession by Dec 21,New Property,Unfurnished,0,2,NA,NA,NA,44
+  Tathawade Dattwadi,2,Flat,692,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,45.1
+  Sus,2,Flat,885,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,73
+  Punawale Pimpri Chinchwad,2,Flat,NA,Possession by Jun 22,New Property,Unfurnished,0,2,NA,NA,NA,54
+  Lohegaon,1,Flat,521,Ready to Move,New Property,Unfurnished,1,1,NA,NA,NA,37.4
+  Punawale Pimpri Chinchwad,2,Flat,747,Possession by Dec 25,New Property,Unfurnished,0,2,NA,NA,NA,55.9
+  Balewadi,1,Flat,504,Possession by Jun 22,New Property,SemiFurnished,0,1,NA,NA,NA,59
+  Baner,2,Flat,974,Ready to Move,New Property,Unfurnished,1,2,NA,NA,NA,95.2
+  Dhanori,2,Flat,969,Possession by Dec 24,New Property,Unfurnished,1,2,NA,NA,NA,72
+  Ravet Pimpri Chinchwad,1,Flat,495,Possession by Jun 23,New Property,Unfurnished,1,2,NA,NA,NA,40.5
+  Wakad,2,Flat,743,Possession by Feb 24,New Property,Unfurnished,0,2,NA,NA,NA,66.4
+  NIBM Annexe,1,Flat,532,Possession by Dec 23,New Property,Unfurnished,0,1,NA,NA,NA,34.7
+  Talegaon Dabhade,2,Flat,641,Ready to Move,New Property,Unfurnished,1,2,NA,NA,NA,36
+  Ravet Pimpri Chinchwad,2,Flat,738,Possession by Dec 22,New Property,Unfurnished,1,2,NA,NA,NA,63.7
+  Kalyani Nagar,2,Flat,908,Possession by Jun 23,New Property,Unfurnished,0,2,NA,NA,NA,105
+  Kiwale Dehu Road,2,Flat,660,Possession by Oct 25,New Property,Unfurnished,1,2,NA,NA,NA,44.4
+  Ravet Pimpri Chinchwad,2,Flat,840,Possession by Dec 23,New Property,Unfurnished,0,2,NA,NA,NA,61.3
+  Sus,2,Flat,700,Possession by Apr 21,New Property,Unfurnished,1,2,NA,NA,NA,53.6
+  Lohegaon,1,Flat,583,Possession by Mar 23,New Property,Unfurnished,0,1,NA,NA,NA,35.6
+  Kharadi,3,Flat,1180,Possession by Sep 22,New Property,Unfurnished,0,3,NA,NA,NA,124
+  Mundhwa,2,Flat,656,Possession by Jan 23,New Property,Unfurnished,0,2,NA,NA,NA,66.3
+  Punawale Pimpri Chinchwad,2,Flat,795,Possession by Jul 21,New Property,Unfurnished,0,2,NA,NA,NA,63.5
+  Hinjewadi,2,Flat,628,Possession by Dec 21,New Property,Unfurnished,0,2,NA,NA,NA,48
+  Hadapsar,2,Flat,757,Possession by Sep 22,New Property,Unfurnished,0,2,NA,NA,NA,68.6
+  Hinjewadi,2,Flat,NA,Possession by Aug 21,New Property,Furnished,1,2,NA,NA,NA,30
+  Wagholi,3,Flat,1020,Ready to Move,New Property,Unfurnished,1,3,NA,NA,NA,63
+  Ambegaon Budruk,2,Flat,NA,Possession by Dec 23,New Property,Unfurnished,1,2,NA,NA,NA,61.6
+  Kiwale Dehu Road,2,Flat,669,Possession by Aug 21,New Property,Unfurnished,0,2,NA,NA,NA,37
+  Bhugaon Bavdhan,1,Flat,516,Possession by Dec 21,New Property,Unfurnished,0,1,NA,NA,NA,33.5
+  Amanora Park Town,2,Flat,NA,Ready to Move,New Property,Unfurnished,1,2,NA,NA,NA,156
+  Hadapsar,3,Flat,985,Ready to Move,New Property,Unfurnished,1,3,NA,NA,NA,87
+  Bavdhan,1,Flat,410,Possession by Dec 21,New Property,Unfurnished,0,1,NA,NA,NA,39.1
+  Pimple Saudagar Pimpri Chinchwad,2,Flat,71,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,80
+  Wagholi,3,Flat,950,Possession by Jun 23,New Property,Unfurnished,1,3,NA,NA,NA,80
+  Tathawade Dattwadi,2,Flat,650,Possession by Dec 24,New Property,Unfurnished,50,2,2,Freehold,East,55.4
+  Wagholi,1,Flat,525,Possession by Jun 24,New Property,Unfurnished,1,1,NA,NA,NA,32.6
+  Hinjewadi,1,Flat,517,Possession by Jun 21,New Property,Unfurnished,1,1,1,Freehold,East,40.3
+  Wagholi,1,Flat,494,Ready to Move,New Property,Unfurnished,1,2,NA,NA,NA,27
+  Wakad,3,Flat,966,Possession by Dec 24,New Property,Unfurnished,1,3,1,Freehold,East,110
+  Tathawade Dattwadi,2,Flat,680,Possession by Dec 22,New Property,Unfurnished,1,2,3,Freehold,East,44.9
+  Manjri Manjri Budruk,2,Flat,NA,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,59
+  Chikhali,2,Flat,571,Ready to Move,New Property,Unfurnished,0,2,NA,NA,NA,33.6
